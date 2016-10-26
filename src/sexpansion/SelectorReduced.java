@@ -47,30 +47,5 @@ public class SelectorReduced extends Selector {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-Matrix metrica ;
-		
-		System.out.println("We introduce the structure constants of sl2.");
-		StructureConstantSet sl2p = new StructureConstantSet(3) ;
-		sl2p.setStructureConstant(0, 1, 1, 2) ;
-		sl2p.setStructureConstant(0, 2, 2, -2) ;
-		sl2p.setStructureConstant(1, 2, 0, 1) ;
-		metrica = sl2p.cartanKillingMetric() ;
-		System.out.println("We show its Killing-Cartan metric");
-		metrica.print(2, 2) ;
-		System.out.println("and its determinant:");
-		System.out.println(metrica.det());
-		System.out.println("We load a semigroup.");
-		int [][] matriz = {{1,2,3,4},{2,3,4,4},{3,4,4,4}, {4,4,4,4}};
-	    Semigroup grupo = new Semigroup(matriz) ;
-	    System.out.println("We compute the selectors of the semigroup and the reduced selectors.");
-	    Selector s = grupo.getSelector() ;
-	    SelectorReduced rs = new SelectorReduced(s,4);
-	    Matrix m = rs.selectorMetric();
-	    System.out.println("The metric of the reduced selectors is:");
-	    m.print(2, 2);
-
-	}
 	
 }

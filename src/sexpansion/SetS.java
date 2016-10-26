@@ -14,7 +14,7 @@ import java.io.IOException;
 public class SetS {
 
 	int [] list ;
-	int nElements ;
+	public int nElements ;
 	
 	/**
 	 * Builds a SetS object out of a array of integers
