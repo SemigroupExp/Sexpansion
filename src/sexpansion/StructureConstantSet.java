@@ -253,7 +253,7 @@ public class StructureConstantSet {
 		int i = max.nElements , j ;
 		SetS[] subSets = null;
 		for ( i = max.nElements - 1 ; i > 0 ; ++i ){
-			subSets =  max.SubSets(i) ;
+			subSets =  max.subSets(i) ;
 			for ( j = 0 ; j < subSets.length ; ++j ) {
 				if ( this.generatorsSelfCommute( subSets[j]) ) {
 					return subSets[i] ;

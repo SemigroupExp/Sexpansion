@@ -45,7 +45,7 @@ public class Semigroup {
 	 * Returns the multiplication table as String
 	 * @return
 	 */
-	public String ToElegantReport() {
+	public String toElegantReport() {
 	    String aString;     
 	    aString = "";
 	    int column;
@@ -64,7 +64,7 @@ public class Semigroup {
 	 * 
 	 * @return Returns the order of the semigroup
 	 */
-	public int Elements(){
+	public int elements(){
 		return order ;
 	}
 	
@@ -451,8 +451,8 @@ public class Semigroup {
 	
 	public SetS [][] findResonances( int n1, int n2 ) {
 		SetS total = new SetS(this.order) ;
-		SetS [] list1 = total.SubSets(n1) ;
-		SetS [] list2 = total.SubSets(n2) ;
+		SetS [] list1 = total.subSets(n1) ;
+		SetS [] list2 = total.subSets(n2) ;
 		SetS [][] result = null;
 		SetS [][] auxiliar = null ;
 		int foundResonances = 0 ;
@@ -516,7 +516,7 @@ public class Semigroup {
 	 * @return Returns a new Semigroup which is the result of applying the isomorphism
 	 */
 	
-	public Semigroup PermuteWith( SetS s ) {
+	public Semigroup permuteWith( SetS s ) {
 		int i,j;
 		int [][] matrix = new int[this.order][ this.order];
 		SetS inverse  = s.inversePermutation() ;
@@ -551,9 +551,9 @@ public class Semigroup {
 	 * @return A list containing all the isomorphic semigroups
 	 */
 	
-	public Semigroup [] Permute() {
+	public Semigroup [] permute() {
 		SetS identity = new SetS( this.order );
-		SetS [] permutations = identity.AllPermutations() ;
+		SetS [] permutations = identity.allPermutations() ;
 		int k;
 		Semigroup [] result = new Semigroup [permutations.length];
 		for ( k = 0 ; k < permutations.length ; ++k) {
@@ -561,7 +561,7 @@ public class Semigroup {
 				//System.out.println("***");
 				//permutacions[k].show();
 				//System.out.println("******");
-				result[k ] = this.PermuteWith(permutations[k]);	
+				result[k ] = this.permuteWith(permutations[k]);	
 				//resultat[k].show();
 		}
 		return result;
@@ -572,8 +572,8 @@ public class Semigroup {
 	 * @return A list containing all the antiisomorphic semigroups
 	 */
 	
-	public Semigroup [] AntiPermute () {
-		return (this.transpose()).Permute( );
+	public Semigroup [] antiPermute () {
+		return (this.transpose()).permute( );
 	}
 	
 	/**
@@ -585,8 +585,8 @@ public class Semigroup {
 		boolean [] resultNothing = {false , false} ;
 		boolean [] resultIso = {true , true };
 		boolean [] resultAnti = {true , false };
-		Semigroup [] permutations = this.Permute() ;
-		Semigroup [] permutationsB = B.Permute() ;
+		Semigroup [] permutations = this.permute() ;
+		Semigroup [] permutationsB = B.permute() ;
 		int i,j;
 		for ( i = 0 ; i < permutations.length; ++i) {
 			for ( j = 0; j < permutationsB.length ; ++j) {
@@ -596,8 +596,8 @@ public class Semigroup {
 			}
 		}
 		
-		Semigroup [] antiPermutations = this.AntiPermute() ;
-		Semigroup [] antiPermutationsB = B.AntiPermute() ;
+		Semigroup [] antiPermutations = this.antiPermute() ;
+		Semigroup [] antiPermutationsB = B.antiPermute() ;
 		for ( i = 0 ; i < permutations.length; ++i) {
 			for ( j = 0; j < permutationsB.length ; ++j) {
 				if ( antiPermutations[i].isEqualTo(antiPermutationsB[j])) {
@@ -701,8 +701,8 @@ public class Semigroup {
 	 */
 	
 	public boolean isIsoTemplateFor( Semigroup B) {
-		Semigroup [] isos = this.Permute() ;
-		Semigroup [] antis = this.AntiPermute() ;
+		Semigroup [] isos = this.permute() ;
+		Semigroup [] antis = this.antiPermute() ;
 		int i ;
 		for ( i = 0 ; i < isos.length  ; ++i) {
 			if ( isos[i].isTemplateFor(B)) {

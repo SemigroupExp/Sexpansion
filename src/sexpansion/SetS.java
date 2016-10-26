@@ -44,7 +44,7 @@ public class SetS {
 	/**
 	 * Prints a SetS to string in a fancy way
 	 */
-	public String ToElegantReport() {
+	public String toElegantReport() {
 	    String aString;     
 	    aString = "";
 	    int column;
@@ -134,7 +134,7 @@ public class SetS {
     	return null;
     }
     
-    SetS[] AuxSubset( SetS original , SetS resultat, int n) {
+    SetS[] auxSubset( SetS original , SetS resultat, int n) {
     	int i;
     	SetS [] list = null;
     	SetS [] totalList = null;
@@ -163,7 +163,7 @@ public class SetS {
         	//System.out.println("aux2 ");
         	//System.out.print( aux2.nElements);
         	//System.out.println(" elements");
-    		list = AuxSubset(aux1 , aux2 , n-1);
+    		list = auxSubset(aux1 , aux2 , n-1);
     		//System.out.println("A sumar resultats");
     		totalList = SetS.add(list , totalList );
     		//System.out.println("Llista total es ");
@@ -332,17 +332,17 @@ public class SetS {
      * @param n the number of elements in the subsets
      * @return a list of SetS objects with all the possible subsets
      */
-    public SetS [] SubSets( int n ) {
+    public SetS [] subSets( int n ) {
     	SetS result = new SetS();
-    	return SetS.cleanDuplicates(AuxSubset( this , result, n ));
+    	return SetS.cleanDuplicates(auxSubset( this , result, n ));
     }
     
-	public SetS [] AllPermutations( ) {
+	public SetS [] allPermutations( ) {
 		SetS result = new SetS(0) ;
-		 return this.PermutationsAux( this , result);
+		 return this.permutationsAux( this , result);
 	}
 	
-	public SetS [] PermutationsAux( SetS original, SetS resultat ) {
+	public SetS [] permutationsAux( SetS original, SetS resultat ) {
 		int i , j;
 		SetS original2 , result2 ;
 		SetS [] list = null;
@@ -357,7 +357,7 @@ public class SetS {
 		for ( i = 0 ; i < original.nElements ; i++ ){
 			result2 = resultat.addElement( original.elementAt(i) ) ;
 			original2 = original.eraseElement(i) ;
-			list = PermutationsAux( original2 , result2) ;
+			list = permutationsAux( original2 , result2) ;
 			N = N + list.length ;
 			previousList = totalList ;
 			totalList = new SetS[N];
@@ -374,7 +374,7 @@ public class SetS {
 	
 	// Returns the inverse of the set, seen as a permutation
 	public SetS inversePermutation() {
-		SetS [] permutations = this.AllPermutations() ;
+		SetS [] permutations = this.allPermutations() ;
 		int i, j ;
 		boolean inverse = true ;
 		for ( i = 0 ; i < permutations.length ; ++i) {
