@@ -53,11 +53,6 @@ public class StructureConstantSetExpandedReduced extends
 		 */
 
 		public Matrix cartanKillingMetricPretty(){
-			
-			//System.out.println("L'álgebra té generadors: ");
-			//System.out.println(n);
-			//System.out.println("Y el semigroup: ");
-			//System.out.println(m);
 			int i , a , lambda , g , k , l, j , b ;
 			double sum = 0 ;
 			int row = 0 , column = 0;
@@ -86,8 +81,6 @@ public class StructureConstantSetExpandedReduced extends
 			}
 			
 			int nGenerators = this.n * this.m - this.n ;
-			//System.out.println("La nueva métrica tiene dimensiones");
-			//System.out.println(nGeneradores);
 			double[][] finalMetric = new double[nGenerators][nGenerators];
 			row = 0 ;
 			column = 0 ;
@@ -101,15 +94,6 @@ public class StructureConstantSetExpandedReduced extends
 								if (  b != zero - 1  ) {
 									originalRow = m * i + a ;
 									originalColumn = m * j + b ;
-									//System.out.print("Igualo elemento ") ;
-									//System.out.print( fila ) ;
-									//System.out.print(" , " ) ;
-									//System.out.print( columna) ;
-									//System.out.print(" al elemento ") ;
-									//System.out.print(filaOriginal );
-									//System.out.print(" , ") ;
-									//System.out.println( columnaOriginal) ;
-									
 									finalMetric[row][column] = metric[originalRow][originalColumn];
 									column = column + 1 ;
 									}
@@ -177,7 +161,6 @@ public void showPretty() {
 					}
 				}
 			}
-			//System.out.println("******");
 			}
 		}
 		System.out.println("*****");

@@ -47,7 +47,7 @@ public class Selector {
 		return data[a  ][b  ][c ];
 	}
 	
-	/* Computes the "metric" which results on the contraction of the selectors */
+	/** Computes the "metric" which results on the contraction of the selectors */
 	public Matrix selectorMetric() {
 		int a , b , c , d ;
 		double sum = 0 ;
@@ -97,7 +97,6 @@ public class Selector {
 	public Matrix expandedMetric( Matrix metrica ) {
 		int i,a,j, l , g;
 		double sum = 0 ;
-		//Guardarem les coses amb el format i, a, j,b
 		double [][][][] data = new double[metrica.getColumnDimension()][this.order][metrica.getColumnDimension()][ this.order];
 		for ( i = 0 ; i < metrica.getRowDimension() ; i = i + 1 ) {
 			for ( a = 0 ; a < this.order ; a = a + 1 ) {
@@ -116,7 +115,6 @@ public class Selector {
 			}
 		}
 		
-		//Una vegada tenim data, hem de crear una matriu bidimensional
 		double [][] matrix = new double[this.order * metrica.getColumnDimension()] [this.order * metrica.getColumnDimension()] ;
 		int row = 0 , column = 0 ;
 		for ( i = 0 ; i < metrica.getColumnDimension() ; ++i ) {

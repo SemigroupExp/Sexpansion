@@ -38,17 +38,6 @@ public class StructureConstantSetExpandedResonantReduced extends StructureConsta
 	 * Calculates the Cartan-Killing metric, erasing the rows and columns which shouldn't be there
 	 */
 	public Matrix cartanKillingMetricPretty(){
-		//System.out.print(" n = ") ;
-		//System.out.println(n);
-		//System.out.print(" m = ") ;
-		//System.out.println( m ) ;
-		//System.out.println( this.data.length);
-		//System.out.println( this.data[0].length);
-		//System.out.println( this.data[0][0].length);
-		//System.out.println( this.data[0][0][0].length);
-		//System.out.println( this.data[0][0][0][0].length);
-		//System.out.println( this.data[0][0][0][0][0].length);
-
 		int i , a , lambda , g , k , l, j , b ;
 		double sum = 0 ;
 		int row = 0 , column = 0;
@@ -83,8 +72,6 @@ public class StructureConstantSetExpandedResonantReduced extends StructureConsta
 		if ( S1.find(zero)) {
 			nGeneradores = nGeneradores - V1.nElements;
 		}
-		//System.out.println("La nueva métrica tiene dimensiones");
-		//System.out.println(nGeneradores);
 		double[][] metricaFinal = new double[nGeneradores][nGeneradores];
 		row = 0 ;
 		column = 0 ;
@@ -97,16 +84,7 @@ public class StructureConstantSetExpandedResonantReduced extends StructureConsta
 						for ( b = 0 ; b < m ; ++b ) {
 							if ( ( (S0.find(b+1)  && V0.find(j +1 ) ) || ( S1.find(b+1) && V1.find( j +1) ) )  && b != zero - 1 ) {
 								filaOriginal = m * i + a ;
-								columnaOriginal = m * j + b ;
-								//System.out.print("Igualo elemento ") ;
-								//System.out.print( fila ) ;
-								//System.out.print(" , " ) ;
-								//System.out.print( columna) ;
-								//System.out.print(" al elemento ") ;
-								//System.out.print(filaOriginal );
-								//System.out.print(" , ") ;
-								//System.out.println( columnaOriginal) ;
-								
+								columnaOriginal = m * j + b ;							
 								metricaFinal[row][column] = metric[filaOriginal][columnaOriginal];
 								column = column + 1 ;
 							}
@@ -181,7 +159,6 @@ public class StructureConstantSetExpandedResonantReduced extends StructureConsta
 					}
 				}
 				}
-				//System.out.println("******");
 			}
 			System.out.println("*****");
 		}

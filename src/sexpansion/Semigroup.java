@@ -804,9 +804,9 @@ public class Semigroup {
 	 */
 	public StructureConstantSetExpanded getExpandedStructureConstant( StructureConstantSet s ) {
 		Selector selectors = this.getSelector() ;
-		//Nœmero de generadores del ‡lgebra
+		//Number of generators for the Algebra
 		int n = s.N ;
-		//Nœmero de generadores del semigrupo
+		//Number of generators for the Semigroup
 		int m = this.order ;
 		double [][][][][][] matrix = new double[n][m ][n][m][n][m];
 		int a,b,g, k , i , j ;

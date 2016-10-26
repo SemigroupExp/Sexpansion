@@ -247,17 +247,6 @@ public void showSCRes(){
 		 * @return
 		 */
 		public Matrix cartanKillingMetricPretty(){
-			//System.out.print(" n = ") ;
-			//System.out.println(n);
-			//System.out.print(" m = ") ;
-			//System.out.println( m ) ;
-			//System.out.println( this.data.length);
-			//System.out.println( this.data[0].length);
-			//System.out.println( this.data[0][0].length);
-			//System.out.println( this.data[0][0][0].length);
-			//System.out.println( this.data[0][0][0][0].length);
-			//System.out.println( this.data[0][0][0][0][0].length);
-
 			int i , a , lambda , g , k , l, j , b ;
 			double suma = 0 ;
 			int fila = 0 , columna = 0;
@@ -286,8 +275,6 @@ public void showSCRes(){
 			}
 			
 			int nGeneradores = V0.nElements * S0.nElements + V1.nElements * S1.nElements ;
-			//System.out.println("La nueva métrica tiene dimensiones");
-			//System.out.println(nGeneradores);
 			double[][] metricaFinal = new double[nGeneradores][nGeneradores];
 			fila = 0 ;
 			columna = 0 ;
@@ -300,16 +287,7 @@ public void showSCRes(){
 							for ( b = 0 ; b < m ; ++b ) {
 								if  ( (S0.find(b+1)  && V0.find(j +1 )) || ( S1.find(b+1) && V1.find( j +1) ) )  {
 									filaOriginal = m * i + a ;
-									columnaOriginal = m * j + b ;
-								//	System.out.print("Igualo elemento ") ;
-								//	System.out.print( fila ) ;
-								//	System.out.print(" , " ) ;
-								//	System.out.print( columna) ;
-								//	System.out.print(" al elemento ") ;
-								//	System.out.print(filaOriginal );
-								//	System.out.print(" , ") ;
-								//	System.out.println( columnaOriginal) ;
-									
+									columnaOriginal = m * j + b ;		
 									metricaFinal[fila][columna] = metrica[filaOriginal][columnaOriginal];
 									columna = columna + 1 ;
 								}

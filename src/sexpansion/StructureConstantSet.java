@@ -244,7 +244,7 @@ public class StructureConstantSet {
 		return true;
 	}
 	
-	/*
+	/**
 	 * Returns a set object containing the maximal abelian subalgebra
 	 */
 	

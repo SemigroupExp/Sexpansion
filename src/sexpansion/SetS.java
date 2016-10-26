@@ -239,7 +239,6 @@ public class SetS {
      * @return A new list of SetS objects without duplicated
      */
     public static SetS[] cleanDuplicates( SetS [] lst) {
-    	//System.out.println("Vaig a netejar els duplicats");
     	int i, j ;
     	int n = lst.length ;
     	int elements = n;
@@ -256,8 +255,6 @@ public class SetS {
     		}
     	}
     	newList = new SetS[elements] ;
-    	//System.out.println("La nova list, sense duplicats, deu tindre X elements, amb X=");
-    	//System.out.println(elements);
     	j = 0 ;
     	for ( i = 0 ;  i < n ; ++i) {
     		if ( lst[i] != null ) {
@@ -266,7 +263,6 @@ public class SetS {
     		}
     	}
     	
-    	//System.out.println("Acabe de fer-ho");
     	return newList ;
     }
     
@@ -304,18 +300,9 @@ public class SetS {
     	else if ( s1 != null && s2 == null ) {
     		return s1;
     	}
-//    	System.out.println("En add");
-//    	System.out.println("Lista1 con");
-//    	System.out.println(s1.length);
-//    	System.out.println(" elements");
-//    	System.out.println("Lista2 con");
-//    	System.out.println(s2.length);
-//    	System.out.println(" elements");
     	int l1 = s1.length , l2 = s2.length ;
     	int elements = l1 + l2 ;
     	int i;
-    	//System.out.println("Tenim X elements");
-    	//System.out.println(elements);
     	SetS [] llista = new SetS[elements] ;
     	for ( i = 0 ; i < l1 ; ++i ){
     		llista[i] = s1[i];

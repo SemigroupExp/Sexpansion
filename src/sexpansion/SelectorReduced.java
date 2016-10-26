@@ -7,7 +7,6 @@ public class SelectorReduced extends Selector {
 
 	int zero;
 	public SelectorReduced( Selector s, int zero) {
-		// TODO Auto-generated constructor stub
 		super(s.order);
 		this.data = s.data ;
 		this.zero = zero;
