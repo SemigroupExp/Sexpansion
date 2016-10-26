@@ -134,7 +134,7 @@ public class SetS {
     	return null;
     }
     
-    SetS[] auxSubset( SetS original , SetS resultat, int n) {
+    public SetS[] auxSubset( SetS original , SetS resultat, int n) {
     	int i;
     	SetS [] list = null;
     	SetS [] totalList = null;
