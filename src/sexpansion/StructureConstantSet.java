@@ -193,7 +193,7 @@ public class StructureConstantSet {
 	
 	
 	
-	public Matrix Casimir() {
+	public Matrix casimir() {
 		Matrix CK = this.cartanKillingMetric() ;
 		Matrix inverseCK = CK.inverse() ;
 		Matrix M = new Matrix(N, N );
@@ -215,8 +215,8 @@ public class StructureConstantSet {
 		return M;
 	}
 	
-	public double [] CasimirEigenvalues () {
-		return (this.Casimir().eig()).getRealEigenvalues();
+	public double [] casimirEigenvalues () {
+		return (this.casimir().eig()).getRealEigenvalues();
 	}
 	
 	//Matrix [] commutingAndSemisimplices () {
