@@ -24,7 +24,7 @@ public class StructureConstantSet {
 		constants = new double[N][N][N];
 	}
 	
-	boolean generatorsCommute( int i , int j ) {
+	public boolean generatorsCommute( int i , int j ) {
 		int k = 0 ;
 		for ( k = 0 ; k < this.N ; ++k) {
 			if ( Math.abs(this.constants[i][j][k] ) > 1e-12  ) {
@@ -96,7 +96,7 @@ public class StructureConstantSet {
 		return new Matrix( metric );
 	}
 	
-	Matrix [] adjointGenerators () {
+	public Matrix [] adjointGenerators () {
 		Matrix [] generators = new Matrix[this.N];
 		int i,j,k ;
 		double [][] auxMatrix = new double [this.N][this.N];
@@ -115,7 +115,7 @@ public class StructureConstantSet {
 		return generators;
 	}
 	
-	Matrix [] semisimpleAdjointGenerators () {
+	public Matrix [] semisimpleAdjointGenerators () {
 		Matrix [] generators = this.adjointGenerators() ;
 		Matrix [] result = null;
 		Matrix [] aux ;
@@ -155,7 +155,7 @@ public class StructureConstantSet {
 	 * @return
 	 */
 	
-	int [] semisimpleAdjointGeneratorsReferences () {
+	public int [] semisimpleAdjointGeneratorsReferences () {
 		Matrix [] generators = this.adjointGenerators() ;
 		int [] result = null;
 		int [] aux ;
@@ -193,7 +193,7 @@ public class StructureConstantSet {
 	
 	
 	
-	Matrix Casimir() {
+	public Matrix Casimir() {
 		Matrix CK = this.cartanKillingMetric() ;
 		Matrix inverseCK = CK.inverse() ;
 		Matrix M = new Matrix(N, N );
@@ -215,7 +215,7 @@ public class StructureConstantSet {
 		return M;
 	}
 	
-	double [] CasimirEigenvalues () {
+	public double [] CasimirEigenvalues () {
 		return (this.Casimir().eig()).getRealEigenvalues();
 	}
 	
