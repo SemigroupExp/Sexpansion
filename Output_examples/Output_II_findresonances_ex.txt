@@ -1,0 +1,72 @@
+The semigroup S_E2 has 2 resonances:
+Resonance #1
+S0: 1 3 4
+S1: 2 4
+Resonance #2
+S0: 1 3 4
+S1: 2 3 4
+************************************
+The semigroup S_K3 has 2 resonances:
+Resonance #1
+S0: 2 3 4
+S1: 1 4
+Resonance #2
+S0: 2 3 4
+S1: 1 2 4
+************************************
+The semigroup S_N1 has 2 resonances:
+Resonance #1
+S0: 2 3 4
+S1: 1 4
+Resonance #2
+S0: 2 3 4
+S1: 1 2 4
+************************************
+The semigroup S_N2 has 2 resonances:
+Resonance #1
+S0: 2 4
+S1: 1 3 4
+Resonance #2
+S0: 2 3 4
+S1: 1 3 4
+************************************
+The semigroup S_N3 has 5 resonances:
+Resonance #1
+S0: 2 4
+S1: 1 3 4
+Resonance #2
+S0: 2 3 4
+S1: 1 4
+Resonance #3
+S0: 1 2 4
+S1: 3 4
+Resonance #4
+S0: 2 3 4
+S1: 1 3 4
+Resonance #5
+S0: 1 2 4
+S1: 1 3 4
+************************************
+The semigroup S_S3 has 2 resonances:
+Resonance #1
+S0: 2 3 4
+S1: 1 4
+Resonance #2
+S0: 2 3 4
+S1: 1 2 4
+************************************
+The semigroup S_S2 has 1 resonances:
+Resonance #1
+S0: 1 3
+S1: 2
+************************************
+The semigroup S_M3 has 1 resonances:
+Resonance #1
+S0: 1 3
+S1: 2 4
+************************************
+The semigroup S_M4 has 1 resonances:
+Resonance #1
+S0: 1 3 5
+S1: 2 4
+************************************

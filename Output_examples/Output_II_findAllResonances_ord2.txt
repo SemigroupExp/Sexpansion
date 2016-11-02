@@ -1,0 +1,12 @@
+This is the output of the program II_findAllResonances_ord2_to_6.java, which gives the list of semigroups of order2with resonant decompositions.
+The number of semigroups with at least one resonance and the total number of different resonances is given at the end of the file.
+************************************
+The semigroup #4
+1 2
+2 1
+has #1 resonances.
+Resonance #1
+S0: 1
+S1: 2
+************************************
+There are 1 semigroups with at least one resonance and there are in total 1 different resonances.

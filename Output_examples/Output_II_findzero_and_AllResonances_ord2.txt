@@ -1,0 +1,4 @@
+This is the output of the program II_findzero_and_AllResonances_ord2_to_6.java, which gives the list of semigroups of order 2 with zero element and resonant decompositions.
+The number of semigroups with zero elements and at least one resonance, as well as the total number of different resonances is given at the end of the file.
+************************************
+There are 0 semigroups with zero element and at least one resonance. In total, they have 0 different resonances.

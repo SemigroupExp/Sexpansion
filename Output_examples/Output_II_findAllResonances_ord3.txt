@@ -1,0 +1,79 @@
+This is the output of the program II_findAllResonances_ord2_to_6.java, which gives the list of semigroups of order3with resonant decompositions.
+The number of semigroups with at least one resonance and the total number of different resonances is given at the end of the file.
+************************************
+The semigroup #1
+1 1 1
+1 1 1
+1 1 1
+has #2 resonances.
+Resonance #1
+S0: 1 3
+S1: 1 2
+Resonance #2
+S0: 1 2
+S1: 1 3
+************************************
+The semigroup #2
+1 1 1
+1 1 1
+1 1 2
+has #1 resonances.
+Resonance #1
+S0: 1 2
+S1: 1 3
+************************************
+The semigroup #3
+1 1 1
+1 1 1
+1 1 3
+has #1 resonances.
+Resonance #1
+S0: 1 3
+S1: 1 2
+************************************
+The semigroup #6
+1 1 1
+1 1 2
+1 2 3
+has #1 resonances.
+Resonance #1
+S0: 1 3
+S1: 1 2
+************************************
+The semigroup #12
+1 1 1
+1 2 3
+1 3 2
+has #1 resonances.
+Resonance #1
+S0: 1 2
+S1: 1 3
+************************************
+The semigroup #15
+1 1 3
+1 1 3
+3 3 1
+has #1 resonances.
+Resonance #1
+S0: 1 2
+S1: 3
+************************************
+The semigroup #16
+1 1 3
+1 2 3
+3 3 1
+has #1 resonances.
+Resonance #1
+S0: 1 2
+S1: 3
+************************************
+The semigroup #17
+1 2 2
+2 1 1
+2 1 1
+has #1 resonances.
+Resonance #1
+S0: 1
+S1: 2 3
+************************************
+There are 8 semigroups with at least one resonance and there are in total 9 different resonances.

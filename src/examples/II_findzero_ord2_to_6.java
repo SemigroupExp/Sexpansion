@@ -13,7 +13,7 @@ public class II_findzero_ord2_to_6 {
 	private static int order=2;
 	private static String Filename = String.format("./Output_examples/Output_II_findzero_ord"+order +".txt") ;
 	public static void main(String[] args) throws IOException {
-		Semigroup[] list = Semigroup.loadFromFile("src/data");
+		Semigroup[] list = Semigroup.loadFromFile("src/data/");
 		Semigroup s ;
 		int elementoCero ;
 		int i,j;

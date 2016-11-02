@@ -1,0 +1,13 @@
+This is the output of the program I_Permutations_and_inverses_Order_2_to_7.java, which gives the list of all permutations of 2 elements and their inverses.
+NOTATION: The n! permutations of a set of n elements are labeled here with P#X, with X=0,...,(n!-1)
+************************************
+Permutation P#0
+1 2
+The inverse permutation (P#0)^(-1) = P#0
+1 2
+************
+Permutation P#1
+2 1
+The inverse permutation (P#1)^(-1) = P#1
+2 1
+************

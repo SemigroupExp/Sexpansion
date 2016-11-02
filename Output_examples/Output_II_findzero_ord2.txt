@@ -1,0 +1,14 @@
+This is the output of the program II_findzero_ord2_to_6.java, which gives the list of semigroups of order 2 with zero element.
+The number of semigroups with zero element is given at the end of the file.
+************************************
+#1
+1 1
+1 1
+The zero element is 1
+************************************
+#2
+1 1
+1 2
+The zero element is 1
+************************************
+Number of semigroups with zero element: 2

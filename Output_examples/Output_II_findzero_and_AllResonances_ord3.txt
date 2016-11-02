@@ -1,0 +1,52 @@
+This is the output of the program II_findzero_and_AllResonances_ord2_to_6.java, which gives the list of semigroups of order 3 with zero element and resonant decompositions.
+The number of semigroups with zero elements and at least one resonance, as well as the total number of different resonances is given at the end of the file.
+************************************
+The semigroup #1
+1 1 1
+1 1 1
+1 1 1
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3
+S1: 1 2
+Resonance #2
+S0: 1 2
+S1: 1 3
+************************************
+The semigroup #2
+1 1 1
+1 1 1
+1 1 2
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3
+************************************
+The semigroup #3
+1 1 1
+1 1 1
+1 1 3
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3
+S1: 1 2
+************************************
+The semigroup #6
+1 1 1
+1 1 2
+1 2 3
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3
+S1: 1 2
+************************************
+The semigroup #12
+1 1 1
+1 2 3
+1 3 2
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3
+************************************
+There are 5 semigroups with zero element and at least one resonance. In total, they have 6 different resonances.

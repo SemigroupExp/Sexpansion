@@ -1,0 +1,603 @@
+This is the output of the program I_Permutations_and_inverses_Order_2_to_7.java, which gives the list of all permutations of 5 elements and their inverses.
+NOTATION: The n! permutations of a set of n elements are labeled here with P#X, with X=0,...,(n!-1)
+************************************
+Permutation P#0
+1 2 3 4 5
+The inverse permutation (P#0)^(-1) = P#0
+1 2 3 4 5
+************
+Permutation P#1
+1 2 3 5 4
+The inverse permutation (P#1)^(-1) = P#1
+1 2 3 5 4
+************
+Permutation P#2
+1 2 4 3 5
+The inverse permutation (P#2)^(-1) = P#2
+1 2 4 3 5
+************
+Permutation P#3
+1 2 4 5 3
+The inverse permutation (P#3)^(-1) = P#4
+1 2 5 3 4
+************
+Permutation P#4
+1 2 5 3 4
+The inverse permutation (P#4)^(-1) = P#3
+1 2 4 5 3
+************
+Permutation P#5
+1 2 5 4 3
+The inverse permutation (P#5)^(-1) = P#5
+1 2 5 4 3
+************
+Permutation P#6
+1 3 2 4 5
+The inverse permutation (P#6)^(-1) = P#6
+1 3 2 4 5
+************
+Permutation P#7
+1 3 2 5 4
+The inverse permutation (P#7)^(-1) = P#7
+1 3 2 5 4
+************
+Permutation P#8
+1 3 4 2 5
+The inverse permutation (P#8)^(-1) = P#12
+1 4 2 3 5
+************
+Permutation P#9
+1 3 4 5 2
+The inverse permutation (P#9)^(-1) = P#18
+1 5 2 3 4
+************
+Permutation P#10
+1 3 5 2 4
+The inverse permutation (P#10)^(-1) = P#13
+1 4 2 5 3
+************
+Permutation P#11
+1 3 5 4 2
+The inverse permutation (P#11)^(-1) = P#19
+1 5 2 4 3
+************
+Permutation P#12
+1 4 2 3 5
+The inverse permutation (P#12)^(-1) = P#8
+1 3 4 2 5
+************
+Permutation P#13
+1 4 2 5 3
+The inverse permutation (P#13)^(-1) = P#10
+1 3 5 2 4
+************
+Permutation P#14
+1 4 3 2 5
+The inverse permutation (P#14)^(-1) = P#14
+1 4 3 2 5
+************
+Permutation P#15
+1 4 3 5 2
+The inverse permutation (P#15)^(-1) = P#20
+1 5 3 2 4
+************
+Permutation P#16
+1 4 5 2 3
+The inverse permutation (P#16)^(-1) = P#16
+1 4 5 2 3
+************
+Permutation P#17
+1 4 5 3 2
+The inverse permutation (P#17)^(-1) = P#22
+1 5 4 2 3
+************
+Permutation P#18
+1 5 2 3 4
+The inverse permutation (P#18)^(-1) = P#9
+1 3 4 5 2
+************
+Permutation P#19
+1 5 2 4 3
+The inverse permutation (P#19)^(-1) = P#11
+1 3 5 4 2
+************
+Permutation P#20
+1 5 3 2 4
+The inverse permutation (P#20)^(-1) = P#15
+1 4 3 5 2
+************
+Permutation P#21
+1 5 3 4 2
+The inverse permutation (P#21)^(-1) = P#21
+1 5 3 4 2
+************
+Permutation P#22
+1 5 4 2 3
+The inverse permutation (P#22)^(-1) = P#17
+1 4 5 3 2
+************
+Permutation P#23
+1 5 4 3 2
+The inverse permutation (P#23)^(-1) = P#23
+1 5 4 3 2
+************
+Permutation P#24
+2 1 3 4 5
+The inverse permutation (P#24)^(-1) = P#24
+2 1 3 4 5
+************
+Permutation P#25
+2 1 3 5 4
+The inverse permutation (P#25)^(-1) = P#25
+2 1 3 5 4
+************
+Permutation P#26
+2 1 4 3 5
+The inverse permutation (P#26)^(-1) = P#26
+2 1 4 3 5
+************
+Permutation P#27
+2 1 4 5 3
+The inverse permutation (P#27)^(-1) = P#28
+2 1 5 3 4
+************
+Permutation P#28
+2 1 5 3 4
+The inverse permutation (P#28)^(-1) = P#27
+2 1 4 5 3
+************
+Permutation P#29
+2 1 5 4 3
+The inverse permutation (P#29)^(-1) = P#29
+2 1 5 4 3
+************
+Permutation P#30
+2 3 1 4 5
+The inverse permutation (P#30)^(-1) = P#48
+3 1 2 4 5
+************
+Permutation P#31
+2 3 1 5 4
+The inverse permutation (P#31)^(-1) = P#49
+3 1 2 5 4
+************
+Permutation P#32
+2 3 4 1 5
+The inverse permutation (P#32)^(-1) = P#72
+4 1 2 3 5
+************
+Permutation P#33
+2 3 4 5 1
+The inverse permutation (P#33)^(-1) = P#96
+5 1 2 3 4
+************
+Permutation P#34
+2 3 5 1 4
+The inverse permutation (P#34)^(-1) = P#73
+4 1 2 5 3
+************
+Permutation P#35
+2 3 5 4 1
+The inverse permutation (P#35)^(-1) = P#97
+5 1 2 4 3
+************
+Permutation P#36
+2 4 1 3 5
+The inverse permutation (P#36)^(-1) = P#50
+3 1 4 2 5
+************
+Permutation P#37
+2 4 1 5 3
+The inverse permutation (P#37)^(-1) = P#52
+3 1 5 2 4
+************
+Permutation P#38
+2 4 3 1 5
+The inverse permutation (P#38)^(-1) = P#74
+4 1 3 2 5
+************
+Permutation P#39
+2 4 3 5 1
+The inverse permutation (P#39)^(-1) = P#98
+5 1 3 2 4
+************
+Permutation P#40
+2 4 5 1 3
+The inverse permutation (P#40)^(-1) = P#76
+4 1 5 2 3
+************
+Permutation P#41
+2 4 5 3 1
+The inverse permutation (P#41)^(-1) = P#100
+5 1 4 2 3
+************
+Permutation P#42
+2 5 1 3 4
+The inverse permutation (P#42)^(-1) = P#51
+3 1 4 5 2
+************
+Permutation P#43
+2 5 1 4 3
+The inverse permutation (P#43)^(-1) = P#53
+3 1 5 4 2
+************
+Permutation P#44
+2 5 3 1 4
+The inverse permutation (P#44)^(-1) = P#75
+4 1 3 5 2
+************
+Permutation P#45
+2 5 3 4 1
+The inverse permutation (P#45)^(-1) = P#99
+5 1 3 4 2
+************
+Permutation P#46
+2 5 4 1 3
+The inverse permutation (P#46)^(-1) = P#77
+4 1 5 3 2
+************
+Permutation P#47
+2 5 4 3 1
+The inverse permutation (P#47)^(-1) = P#101
+5 1 4 3 2
+************
+Permutation P#48
+3 1 2 4 5
+The inverse permutation (P#48)^(-1) = P#30
+2 3 1 4 5
+************
+Permutation P#49
+3 1 2 5 4
+The inverse permutation (P#49)^(-1) = P#31
+2 3 1 5 4
+************
+Permutation P#50
+3 1 4 2 5
+The inverse permutation (P#50)^(-1) = P#36
+2 4 1 3 5
+************
+Permutation P#51
+3 1 4 5 2
+The inverse permutation (P#51)^(-1) = P#42
+2 5 1 3 4
+************
+Permutation P#52
+3 1 5 2 4
+The inverse permutation (P#52)^(-1) = P#37
+2 4 1 5 3
+************
+Permutation P#53
+3 1 5 4 2
+The inverse permutation (P#53)^(-1) = P#43
+2 5 1 4 3
+************
+Permutation P#54
+3 2 1 4 5
+The inverse permutation (P#54)^(-1) = P#54
+3 2 1 4 5
+************
+Permutation P#55
+3 2 1 5 4
+The inverse permutation (P#55)^(-1) = P#55
+3 2 1 5 4
+************
+Permutation P#56
+3 2 4 1 5
+The inverse permutation (P#56)^(-1) = P#78
+4 2 1 3 5
+************
+Permutation P#57
+3 2 4 5 1
+The inverse permutation (P#57)^(-1) = P#102
+5 2 1 3 4
+************
+Permutation P#58
+3 2 5 1 4
+The inverse permutation (P#58)^(-1) = P#79
+4 2 1 5 3
+************
+Permutation P#59
+3 2 5 4 1
+The inverse permutation (P#59)^(-1) = P#103
+5 2 1 4 3
+************
+Permutation P#60
+3 4 1 2 5
+The inverse permutation (P#60)^(-1) = P#60
+3 4 1 2 5
+************
+Permutation P#61
+3 4 1 5 2
+The inverse permutation (P#61)^(-1) = P#66
+3 5 1 2 4
+************
+Permutation P#62
+3 4 2 1 5
+The inverse permutation (P#62)^(-1) = P#84
+4 3 1 2 5
+************
+Permutation P#63
+3 4 2 5 1
+The inverse permutation (P#63)^(-1) = P#108
+5 3 1 2 4
+************
+Permutation P#64
+3 4 5 1 2
+The inverse permutation (P#64)^(-1) = P#90
+4 5 1 2 3
+************
+Permutation P#65
+3 4 5 2 1
+The inverse permutation (P#65)^(-1) = P#114
+5 4 1 2 3
+************
+Permutation P#66
+3 5 1 2 4
+The inverse permutation (P#66)^(-1) = P#61
+3 4 1 5 2
+************
+Permutation P#67
+3 5 1 4 2
+The inverse permutation (P#67)^(-1) = P#67
+3 5 1 4 2
+************
+Permutation P#68
+3 5 2 1 4
+The inverse permutation (P#68)^(-1) = P#85
+4 3 1 5 2
+************
+Permutation P#69
+3 5 2 4 1
+The inverse permutation (P#69)^(-1) = P#109
+5 3 1 4 2
+************
+Permutation P#70
+3 5 4 1 2
+The inverse permutation (P#70)^(-1) = P#91
+4 5 1 3 2
+************
+Permutation P#71
+3 5 4 2 1
+The inverse permutation (P#71)^(-1) = P#115
+5 4 1 3 2
+************
+Permutation P#72
+4 1 2 3 5
+The inverse permutation (P#72)^(-1) = P#32
+2 3 4 1 5
+************
+Permutation P#73
+4 1 2 5 3
+The inverse permutation (P#73)^(-1) = P#34
+2 3 5 1 4
+************
+Permutation P#74
+4 1 3 2 5
+The inverse permutation (P#74)^(-1) = P#38
+2 4 3 1 5
+************
+Permutation P#75
+4 1 3 5 2
+The inverse permutation (P#75)^(-1) = P#44
+2 5 3 1 4
+************
+Permutation P#76
+4 1 5 2 3
+The inverse permutation (P#76)^(-1) = P#40
+2 4 5 1 3
+************
+Permutation P#77
+4 1 5 3 2
+The inverse permutation (P#77)^(-1) = P#46
+2 5 4 1 3
+************
+Permutation P#78
+4 2 1 3 5
+The inverse permutation (P#78)^(-1) = P#56
+3 2 4 1 5
+************
+Permutation P#79
+4 2 1 5 3
+The inverse permutation (P#79)^(-1) = P#58
+3 2 5 1 4
+************
+Permutation P#80
+4 2 3 1 5
+The inverse permutation (P#80)^(-1) = P#80
+4 2 3 1 5
+************
+Permutation P#81
+4 2 3 5 1
+The inverse permutation (P#81)^(-1) = P#104
+5 2 3 1 4
+************
+Permutation P#82
+4 2 5 1 3
+The inverse permutation (P#82)^(-1) = P#82
+4 2 5 1 3
+************
+Permutation P#83
+4 2 5 3 1
+The inverse permutation (P#83)^(-1) = P#106
+5 2 4 1 3
+************
+Permutation P#84
+4 3 1 2 5
+The inverse permutation (P#84)^(-1) = P#62
+3 4 2 1 5
+************
+Permutation P#85
+4 3 1 5 2
+The inverse permutation (P#85)^(-1) = P#68
+3 5 2 1 4
+************
+Permutation P#86
+4 3 2 1 5
+The inverse permutation (P#86)^(-1) = P#86
+4 3 2 1 5
+************
+Permutation P#87
+4 3 2 5 1
+The inverse permutation (P#87)^(-1) = P#110
+5 3 2 1 4
+************
+Permutation P#88
+4 3 5 1 2
+The inverse permutation (P#88)^(-1) = P#92
+4 5 2 1 3
+************
+Permutation P#89
+4 3 5 2 1
+The inverse permutation (P#89)^(-1) = P#116
+5 4 2 1 3
+************
+Permutation P#90
+4 5 1 2 3
+The inverse permutation (P#90)^(-1) = P#64
+3 4 5 1 2
+************
+Permutation P#91
+4 5 1 3 2
+The inverse permutation (P#91)^(-1) = P#70
+3 5 4 1 2
+************
+Permutation P#92
+4 5 2 1 3
+The inverse permutation (P#92)^(-1) = P#88
+4 3 5 1 2
+************
+Permutation P#93
+4 5 2 3 1
+The inverse permutation (P#93)^(-1) = P#112
+5 3 4 1 2
+************
+Permutation P#94
+4 5 3 1 2
+The inverse permutation (P#94)^(-1) = P#94
+4 5 3 1 2
+************
+Permutation P#95
+4 5 3 2 1
+The inverse permutation (P#95)^(-1) = P#118
+5 4 3 1 2
+************
+Permutation P#96
+5 1 2 3 4
+The inverse permutation (P#96)^(-1) = P#33
+2 3 4 5 1
+************
+Permutation P#97
+5 1 2 4 3
+The inverse permutation (P#97)^(-1) = P#35
+2 3 5 4 1
+************
+Permutation P#98
+5 1 3 2 4
+The inverse permutation (P#98)^(-1) = P#39
+2 4 3 5 1
+************
+Permutation P#99
+5 1 3 4 2
+The inverse permutation (P#99)^(-1) = P#45
+2 5 3 4 1
+************
+Permutation P#100
+5 1 4 2 3
+The inverse permutation (P#100)^(-1) = P#41
+2 4 5 3 1
+************
+Permutation P#101
+5 1 4 3 2
+The inverse permutation (P#101)^(-1) = P#47
+2 5 4 3 1
+************
+Permutation P#102
+5 2 1 3 4
+The inverse permutation (P#102)^(-1) = P#57
+3 2 4 5 1
+************
+Permutation P#103
+5 2 1 4 3
+The inverse permutation (P#103)^(-1) = P#59
+3 2 5 4 1
+************
+Permutation P#104
+5 2 3 1 4
+The inverse permutation (P#104)^(-1) = P#81
+4 2 3 5 1
+************
+Permutation P#105
+5 2 3 4 1
+The inverse permutation (P#105)^(-1) = P#105
+5 2 3 4 1
+************
+Permutation P#106
+5 2 4 1 3
+The inverse permutation (P#106)^(-1) = P#83
+4 2 5 3 1
+************
+Permutation P#107
+5 2 4 3 1
+The inverse permutation (P#107)^(-1) = P#107
+5 2 4 3 1
+************
+Permutation P#108
+5 3 1 2 4
+The inverse permutation (P#108)^(-1) = P#63
+3 4 2 5 1
+************
+Permutation P#109
+5 3 1 4 2
+The inverse permutation (P#109)^(-1) = P#69
+3 5 2 4 1
+************
+Permutation P#110
+5 3 2 1 4
+The inverse permutation (P#110)^(-1) = P#87
+4 3 2 5 1
+************
+Permutation P#111
+5 3 2 4 1
+The inverse permutation (P#111)^(-1) = P#111
+5 3 2 4 1
+************
+Permutation P#112
+5 3 4 1 2
+The inverse permutation (P#112)^(-1) = P#93
+4 5 2 3 1
+************
+Permutation P#113
+5 3 4 2 1
+The inverse permutation (P#113)^(-1) = P#117
+5 4 2 3 1
+************
+Permutation P#114
+5 4 1 2 3
+The inverse permutation (P#114)^(-1) = P#65
+3 4 5 2 1
+************
+Permutation P#115
+5 4 1 3 2
+The inverse permutation (P#115)^(-1) = P#71
+3 5 4 2 1
+************
+Permutation P#116
+5 4 2 1 3
+The inverse permutation (P#116)^(-1) = P#89
+4 3 5 2 1
+************
+Permutation P#117
+5 4 2 3 1
+The inverse permutation (P#117)^(-1) = P#113
+5 3 4 2 1
+************
+Permutation P#118
+5 4 3 1 2
+The inverse permutation (P#118)^(-1) = P#95
+4 5 3 2 1
+************
+Permutation P#119
+5 4 3 2 1
+The inverse permutation (P#119)^(-1) = P#119
+5 4 3 2 1
+************

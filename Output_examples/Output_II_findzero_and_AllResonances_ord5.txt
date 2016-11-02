@@ -1,0 +1,5521 @@
+This is the output of the program II_findzero_and_AllResonances_ord2_to_6.java, which gives the list of semigroups of order 5 with zero element and resonant decompositions.
+The number of semigroups with zero elements and at least one resonance, as well as the total number of different resonances is given at the end of the file.
+************************************
+The semigroup #1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+has #50 resonances and 1 is the zero element
+Resonance #1
+S0: 1 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 4
+S1: 1 2 3 5
+Resonance #3
+S0: 1 3
+S1: 1 2 4 5
+Resonance #4
+S0: 1 2
+S1: 1 3 4 5
+Resonance #5
+S0: 1 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 3 5
+S1: 1 2 4
+Resonance #7
+S0: 1 2 5
+S1: 1 3 4
+Resonance #8
+S0: 1 3 4
+S1: 1 2 5
+Resonance #9
+S0: 1 2 4
+S1: 1 3 5
+Resonance #10
+S0: 1 2 3
+S1: 1 4 5
+Resonance #11
+S0: 1 4 5
+S1: 1 2 3 5
+Resonance #12
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #13
+S0: 1 3 5
+S1: 1 2 4 5
+Resonance #14
+S0: 1 3 5
+S1: 1 2 3 4
+Resonance #15
+S0: 1 2 5
+S1: 1 3 4 5
+Resonance #16
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #17
+S0: 1 3 4
+S1: 1 2 4 5
+Resonance #18
+S0: 1 3 4
+S1: 1 2 3 5
+Resonance #19
+S0: 1 2 4
+S1: 1 3 4 5
+Resonance #20
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #21
+S0: 1 2 3
+S1: 1 3 4 5
+Resonance #22
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #23
+S0: 1 3 4 5
+S1: 1 2
+Resonance #24
+S0: 1 2 4 5
+S1: 1 3
+Resonance #25
+S0: 1 2 3 5
+S1: 1 4
+Resonance #26
+S0: 1 2 3 4
+S1: 1 5
+Resonance #27
+S0: 1 3 4 5
+S1: 1 2 5
+Resonance #28
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #29
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #30
+S0: 1 2 4 5
+S1: 1 3 5
+Resonance #31
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #32
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #33
+S0: 1 2 3 5
+S1: 1 4 5
+Resonance #34
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #35
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #36
+S0: 1 2 3 4
+S1: 1 4 5
+Resonance #37
+S0: 1 2 3 4
+S1: 1 3 5
+Resonance #38
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #39
+S0: 1 3 4 5
+S1: 1 2 4 5
+Resonance #40
+S0: 1 3 4 5
+S1: 1 2 3 5
+Resonance #41
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #42
+S0: 1 2 4 5
+S1: 1 3 4 5
+Resonance #43
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #44
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #45
+S0: 1 2 3 5
+S1: 1 3 4 5
+Resonance #46
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #47
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #48
+S0: 1 2 3 4
+S1: 1 3 4 5
+Resonance #49
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #50
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #2
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+has #26 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 5
+S1: 1 3 4
+Resonance #3
+S0: 1 2 4
+S1: 1 3 5
+Resonance #4
+S0: 1 2 3
+S1: 1 4 5
+Resonance #5
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 4
+S1: 1 3 4 5
+Resonance #7
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #8
+S0: 1 2 3
+S1: 1 3 4 5
+Resonance #9
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #10
+S0: 1 2 4 5
+S1: 1 3
+Resonance #11
+S0: 1 2 3 5
+S1: 1 4
+Resonance #12
+S0: 1 2 3 4
+S1: 1 5
+Resonance #13
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #14
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #15
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #16
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #17
+S0: 1 2 3 4
+S1: 1 4 5
+Resonance #18
+S0: 1 2 3 4
+S1: 1 3 5
+Resonance #19
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #20
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #21
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #22
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #23
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #24
+S0: 1 2 3 4
+S1: 1 3 4 5
+Resonance #25
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #26
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #3
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 5
+has #31 resonances and 1 is the zero element
+Resonance #1
+S0: 1 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 3 5
+S1: 1 2 4
+Resonance #4
+S0: 1 2 5
+S1: 1 3 4
+Resonance #5
+S0: 1 4 5
+S1: 1 2 3 5
+Resonance #6
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #7
+S0: 1 3 5
+S1: 1 2 4 5
+Resonance #8
+S0: 1 3 5
+S1: 1 2 3 4
+Resonance #9
+S0: 1 2 5
+S1: 1 3 4 5
+Resonance #10
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #11
+S0: 1 3 4 5
+S1: 1 2
+Resonance #12
+S0: 1 2 4 5
+S1: 1 3
+Resonance #13
+S0: 1 2 3 5
+S1: 1 4
+Resonance #14
+S0: 1 3 4 5
+S1: 1 2 5
+Resonance #15
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #16
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #17
+S0: 1 2 4 5
+S1: 1 3 5
+Resonance #18
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #19
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #20
+S0: 1 2 3 5
+S1: 1 4 5
+Resonance #21
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #22
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #23
+S0: 1 3 4 5
+S1: 1 2 4 5
+Resonance #24
+S0: 1 3 4 5
+S1: 1 2 3 5
+Resonance #25
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #26
+S0: 1 2 4 5
+S1: 1 3 4 5
+Resonance #27
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #28
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #29
+S0: 1 2 3 5
+S1: 1 3 4 5
+Resonance #30
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #31
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #16
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 2 1
+has #22 resonances and 1 is the zero element
+Resonance #1
+S0: 1 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 4
+S1: 1 2 3 5
+Resonance #3
+S0: 1 2
+S1: 1 3 4 5
+Resonance #4
+S0: 1 3 5
+S1: 1 2 4
+Resonance #5
+S0: 1 3 4
+S1: 1 2 5
+Resonance #6
+S0: 1 2 3
+S1: 1 4 5
+Resonance #7
+S0: 1 3 5
+S1: 1 2 3 4
+Resonance #8
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #9
+S0: 1 3 4
+S1: 1 2 3 5
+Resonance #10
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #11
+S0: 1 2 3
+S1: 1 3 4 5
+Resonance #12
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 4 5
+S1: 1 3
+Resonance #14
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #15
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #16
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #17
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #18
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #19
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #20
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #21
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #22
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #17
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 2 2
+has #16 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 3
+S1: 1 4 5
+Resonance #3
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #4
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #5
+S0: 1 2 3
+S1: 1 3 4 5
+Resonance #6
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #7
+S0: 1 2 4 5
+S1: 1 3
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #9
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #10
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #11
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #12
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #13
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #14
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #15
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #16
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #18
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 2 3
+has #12 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 5
+S1: 1 2 4
+Resonance #2
+S0: 1 3 4
+S1: 1 2 5
+Resonance #3
+S0: 1 2 3
+S1: 1 4 5
+Resonance #4
+S0: 1 3 5
+S1: 1 2 3 4
+Resonance #5
+S0: 1 3 4
+S1: 1 2 3 5
+Resonance #6
+S0: 1 2 3
+S1: 1 3 4 5
+Resonance #7
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #8
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #9
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #10
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #11
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #12
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #19
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 2 4
+has #10 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4
+S1: 1 2 3 5
+Resonance #2
+S0: 1 3 4
+S1: 1 2 5
+Resonance #3
+S0: 1 3 4
+S1: 1 2 3 5
+Resonance #4
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #5
+S0: 1 2 4 5
+S1: 1 3
+Resonance #6
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #9
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #10
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #27
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 4
+1 1 1 4 5
+has #21 resonances and 1 is the zero element
+Resonance #1
+S0: 1 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 3 5
+S1: 1 2 4
+Resonance #4
+S0: 1 2 5
+S1: 1 3 4
+Resonance #5
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 3 5
+S1: 1 2 3 4
+Resonance #7
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #8
+S0: 1 3 4 5
+S1: 1 2
+Resonance #9
+S0: 1 2 4 5
+S1: 1 3
+Resonance #10
+S0: 1 2 3 5
+S1: 1 4
+Resonance #11
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #12
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #13
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #14
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #15
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #16
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #17
+S0: 1 3 4 5
+S1: 1 2 4 5
+Resonance #18
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #19
+S0: 1 2 4 5
+S1: 1 3 4 5
+Resonance #20
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #21
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #34
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 2 1
+1 1 1 1 2
+has #22 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 5
+S1: 1 3 4
+Resonance #3
+S0: 1 2 4
+S1: 1 3 5
+Resonance #4
+S0: 1 2 3
+S1: 1 4 5
+Resonance #5
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #7
+S0: 1 2 3
+S1: 1 3 4 5
+Resonance #8
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #9
+S0: 1 2 4 5
+S1: 1 3
+Resonance #10
+S0: 1 2 3 5
+S1: 1 4
+Resonance #11
+S0: 1 2 3 4
+S1: 1 5
+Resonance #12
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #13
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #14
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #15
+S0: 1 2 3 4
+S1: 1 3 5
+Resonance #16
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #17
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #18
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #19
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #20
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #21
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #22
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #35
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 2 1
+1 1 1 1 3
+has #13 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 4 5
+Resonance #2
+S0: 1 2 3
+S1: 1 3 4 5
+Resonance #3
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #4
+S0: 1 2 3 5
+S1: 1 4
+Resonance #5
+S0: 1 2 3 4
+S1: 1 5
+Resonance #6
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #7
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #8
+S0: 1 2 3 4
+S1: 1 3 5
+Resonance #9
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #10
+S0: 1 2 3 5
+S1: 1 3 4 5
+Resonance #11
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #36
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 2 1
+1 1 1 1 5
+has #15 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 5
+S1: 1 3 4 5
+Resonance #3
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #4
+S0: 1 2 4 5
+S1: 1 3
+Resonance #5
+S0: 1 2 3 5
+S1: 1 4
+Resonance #6
+S0: 1 2 4 5
+S1: 1 3 5
+Resonance #7
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #8
+S0: 1 2 3 5
+S1: 1 4 5
+Resonance #9
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #10
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #11
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #12
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #13
+S0: 1 2 3 5
+S1: 1 3 4 5
+Resonance #14
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #15
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #47
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 2 2
+1 1 1 2 2
+has #16 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 3
+S1: 1 4 5
+Resonance #3
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #4
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #5
+S0: 1 2 3
+S1: 1 3 4 5
+Resonance #6
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #7
+S0: 1 2 4 5
+S1: 1 3
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #9
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #10
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #11
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #12
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #13
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #14
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #15
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #16
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #48
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 2 2
+1 1 1 2 3
+has #8 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 4 5
+Resonance #2
+S0: 1 2 3
+S1: 1 3 4 5
+Resonance #3
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #4
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #5
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #8
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #55
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 2 3
+1 1 1 3 2
+has #11 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 4
+S1: 1 3 5
+Resonance #3
+S0: 1 2 3
+S1: 1 4 5
+Resonance #4
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #5
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #6
+S0: 1 2 3
+S1: 1 3 4 5
+Resonance #7
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #8
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #9
+S0: 1 2 3 4
+S1: 1 3 5
+Resonance #10
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #11
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #56
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 4 1
+1 1 1 1 5
+has #17 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 4 5
+S1: 1 2 3 5
+Resonance #3
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2
+Resonance #5
+S0: 1 2 4 5
+S1: 1 3
+Resonance #6
+S0: 1 3 4 5
+S1: 1 2 5
+Resonance #7
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #8
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #9
+S0: 1 2 4 5
+S1: 1 3 5
+Resonance #10
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #11
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #12
+S0: 1 3 4 5
+S1: 1 2 4 5
+Resonance #13
+S0: 1 3 4 5
+S1: 1 2 3 5
+Resonance #14
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #15
+S0: 1 2 4 5
+S1: 1 3 4 5
+Resonance #16
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #17
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #63
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 4 4
+1 1 1 4 4
+has #17 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 3 4
+S1: 1 2 4 5
+Resonance #4
+S0: 1 2 4
+S1: 1 3 4 5
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2
+Resonance #6
+S0: 1 2 4 5
+S1: 1 3
+Resonance #7
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #8
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #9
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #10
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #11
+S0: 1 2 3 4
+S1: 1 4 5
+Resonance #12
+S0: 1 3 4 5
+S1: 1 2 4 5
+Resonance #13
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #14
+S0: 1 2 4 5
+S1: 1 3 4 5
+Resonance #15
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #16
+S0: 1 2 3 4
+S1: 1 3 4 5
+Resonance #17
+S0: 1 2 3 4
+S1: 1 2 4 5
+************************************
+The semigroup #64
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 4 4
+1 1 1 4 5
+has #12 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2
+Resonance #4
+S0: 1 2 4 5
+S1: 1 3
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #6
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #7
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #9
+S0: 1 3 4 5
+S1: 1 2 4 5
+Resonance #10
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #11
+S0: 1 2 4 5
+S1: 1 3 4 5
+Resonance #12
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #70
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 4 5
+1 1 1 5 4
+has #16 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4
+S1: 1 2 3 5
+Resonance #2
+S0: 1 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 3 4
+S1: 1 2 5
+Resonance #4
+S0: 1 2 4
+S1: 1 3 5
+Resonance #5
+S0: 1 3 4
+S1: 1 2 3 5
+Resonance #6
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #7
+S0: 1 3 4 5
+S1: 1 2
+Resonance #8
+S0: 1 2 4 5
+S1: 1 3
+Resonance #9
+S0: 1 2 3 4
+S1: 1 5
+Resonance #10
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #11
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #12
+S0: 1 2 3 4
+S1: 1 3 5
+Resonance #13
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #14
+S0: 1 3 4 5
+S1: 1 2 4 5
+Resonance #15
+S0: 1 2 4 5
+S1: 1 3 4 5
+Resonance #16
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #116
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 1 2
+1 1 2 2 1
+has #15 resonances and 1 is the zero element
+Resonance #1
+S0: 1 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 2
+S1: 1 3 4 5
+Resonance #3
+S0: 1 3 4
+S1: 1 2 5
+Resonance #4
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #5
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #6
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #7
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #8
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #9
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #10
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #11
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #14
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #15
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #117
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 1 2
+1 1 2 2 2
+has #13 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #4
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #9
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #10
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #11
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #118
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 1 2
+1 1 2 2 3
+has #7 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4
+S1: 1 2 5
+Resonance #2
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #3
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #4
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #5
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #119
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 2 1
+1 1 2 1 1
+has #15 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 4
+S1: 1 3 5
+Resonance #3
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #4
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #5
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #6
+S0: 1 2 3 5
+S1: 1 4
+Resonance #7
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #8
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #9
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #10
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #11
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #14
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #15
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #120
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 2 1
+1 1 2 1 2
+has #15 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 4
+S1: 1 3 5
+Resonance #3
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #4
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #5
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #6
+S0: 1 2 3 5
+S1: 1 4
+Resonance #7
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #8
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #9
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #10
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #11
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #14
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #15
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #121
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 2 1
+1 1 2 1 3
+has #7 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #2
+S0: 1 2 3 5
+S1: 1 4
+Resonance #3
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #4
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #5
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #125
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 2 2
+1 1 2 2 1
+has #13 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #4
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #9
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #10
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #11
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #126
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 2 2
+1 1 2 2 2
+has #13 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #4
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #9
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #10
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #11
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #127
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 2 2
+1 1 2 2 3
+has #6 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #4
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #5
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #6
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #128
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 2 3
+1 1 2 3 4
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4
+S1: 1 3 5
+Resonance #2
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #129
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 4 1
+1 1 2 1 1
+has #13 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 3 4
+S1: 1 2 5
+Resonance #3
+S0: 1 2 4
+S1: 1 3 5
+Resonance #4
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #5
+S0: 1 3 4
+S1: 1 2 4 5
+Resonance #6
+S0: 1 2 4
+S1: 1 3 4 5
+Resonance #7
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #9
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #10
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #11
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #130
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 4 1
+1 1 2 1 2
+has #9 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4
+S1: 1 3 5
+Resonance #2
+S0: 1 2 4
+S1: 1 3 4 5
+Resonance #3
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #4
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #5
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #6
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #7
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #8
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #9
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #131
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 4 1
+1 1 2 1 3
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4
+S1: 1 2 5
+Resonance #2
+S0: 1 3 4
+S1: 1 2 4 5
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #4
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #5
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #132
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 4 4
+1 1 2 4 4
+has #7 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 3 4
+S1: 1 2 4 5
+Resonance #4
+S0: 1 2 4
+S1: 1 3 4 5
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 4 5
+************************************
+The semigroup #157
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 3
+1 1 1 1 3
+1 1 3 3 5
+has #11 resonances and 1 is the zero element
+Resonance #1
+S0: 1 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 2 5
+S1: 1 3 4
+Resonance #3
+S0: 1 3 5
+S1: 1 2 3 4
+Resonance #4
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2
+Resonance #6
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #7
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #8
+S0: 1 3 4 5
+S1: 1 2 3 5
+Resonance #9
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #10
+S0: 1 2 3 5
+S1: 1 3 4 5
+Resonance #11
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #162
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 3
+1 1 1 1 4
+1 1 3 4 5
+has #19 resonances and 1 is the zero element
+Resonance #1
+S0: 1 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 3 5
+S1: 1 2 4
+Resonance #4
+S0: 1 2 5
+S1: 1 3 4
+Resonance #5
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 3 5
+S1: 1 2 3 4
+Resonance #7
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #8
+S0: 1 3 4 5
+S1: 1 2
+Resonance #9
+S0: 1 2 4 5
+S1: 1 3
+Resonance #10
+S0: 1 2 3 5
+S1: 1 4
+Resonance #11
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #12
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #13
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #14
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #15
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #16
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #17
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #18
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #19
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #166
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 3
+1 1 1 2 1
+1 1 3 1 5
+has #10 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4 5
+S1: 1 3
+Resonance #4
+S0: 1 2 3 5
+S1: 1 4
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #7
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #9
+S0: 1 2 3 5
+S1: 1 3 4 5
+Resonance #10
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #167
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 3
+1 1 1 2 3
+1 1 3 3 5
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #4
+S0: 1 2 3 5
+S1: 1 3 4 5
+Resonance #5
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #168
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 3
+1 1 1 3 4
+1 1 3 4 5
+has #9 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 5
+S1: 1 2 4
+Resonance #2
+S0: 1 3 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2
+Resonance #4
+S0: 1 2 3 5
+S1: 1 4
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #7
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #8
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #9
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #170
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 3
+1 1 1 4 1
+1 1 3 1 5
+has #11 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2
+Resonance #4
+S0: 1 2 4 5
+S1: 1 3
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #6
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #7
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #9
+S0: 1 3 4 5
+S1: 1 2 3 5
+Resonance #10
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #11
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #173
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 3
+1 1 1 4 4
+1 1 3 4 5
+has #10 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2
+Resonance #4
+S0: 1 2 4 5
+S1: 1 3
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #6
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #7
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #9
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #10
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #199
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 2 2
+1 1 2 1 2
+1 1 2 2 1
+has #13 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #4
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #9
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #10
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #11
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #200
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 2 2
+1 1 2 1 2
+1 1 2 2 2
+has #13 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #4
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #9
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #10
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #11
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #201
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 2 2
+1 1 2 2 1
+1 1 2 1 2
+has #13 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #4
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #9
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #10
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #11
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #203
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 2 2
+1 1 2 2 2
+1 1 2 2 2
+has #13 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #4
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #9
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #10
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #11
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #204
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 2 2
+1 1 2 3 3
+1 1 2 3 3
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3
+S1: 1 2 4 5
+Resonance #2
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #3
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #4
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #207
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 3 3
+1 1 3 4 4
+1 1 3 4 4
+has #7 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 2 4 5
+S1: 1 3
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #7
+S0: 1 2 3 4
+S1: 1 3 4 5
+************************************
+The semigroup #208
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 3 3
+1 1 3 4 4
+1 1 3 4 5
+has #6 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 2 4 5
+S1: 1 3
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 3 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #211
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 3 3
+1 1 3 4 5
+1 1 3 5 4
+has #8 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 3 4
+S1: 1 2 3 5
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2
+Resonance #4
+S0: 1 2 4 5
+S1: 1 3
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #7
+S0: 1 2 3 4
+S1: 1 3 5
+Resonance #8
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #222
+1 1 1 1 1
+1 1 1 1 1
+1 1 2 1 1
+1 1 1 2 1
+1 1 1 1 2
+has #19 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 5
+S1: 1 3 4
+Resonance #3
+S0: 1 2 4
+S1: 1 3 5
+Resonance #4
+S0: 1 2 3
+S1: 1 4 5
+Resonance #5
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #7
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #8
+S0: 1 2 4 5
+S1: 1 3
+Resonance #9
+S0: 1 2 3 5
+S1: 1 4
+Resonance #10
+S0: 1 2 3 4
+S1: 1 5
+Resonance #11
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #12
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #13
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #14
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #15
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #16
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #17
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #18
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #19
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #223
+1 1 1 1 1
+1 1 1 1 1
+1 1 2 1 1
+1 1 1 2 1
+1 1 1 1 5
+has #13 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 5
+S1: 1 3 4 5
+Resonance #3
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #4
+S0: 1 2 4 5
+S1: 1 3
+Resonance #5
+S0: 1 2 3 5
+S1: 1 4
+Resonance #6
+S0: 1 2 4 5
+S1: 1 3 5
+Resonance #7
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #8
+S0: 1 2 3 5
+S1: 1 4 5
+Resonance #9
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #10
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #11
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #227
+1 1 1 1 1
+1 1 1 1 1
+1 1 2 1 1
+1 1 1 2 2
+1 1 1 2 2
+has #15 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 3
+S1: 1 4 5
+Resonance #3
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #4
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #5
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #6
+S0: 1 2 4 5
+S1: 1 3
+Resonance #7
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #8
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #9
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #10
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #11
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #14
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #15
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #230
+1 1 1 1 1
+1 1 1 1 1
+1 1 2 1 1
+1 1 1 4 1
+1 1 1 1 5
+has #7 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4 5
+S1: 1 3
+Resonance #2
+S0: 1 2 4 5
+S1: 1 3 5
+Resonance #3
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #4
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #5
+S0: 1 2 4 5
+S1: 1 3 4 5
+Resonance #6
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #7
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #233
+1 1 1 1 1
+1 1 1 1 1
+1 1 2 1 1
+1 1 1 4 4
+1 1 1 4 4
+has #8 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 4 5
+S1: 1 3
+Resonance #3
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #4
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #5
+S0: 1 2 3 4
+S1: 1 4 5
+Resonance #6
+S0: 1 2 4 5
+S1: 1 3 4 5
+Resonance #7
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #8
+S0: 1 2 3 4
+S1: 1 2 4 5
+************************************
+The semigroup #234
+1 1 1 1 1
+1 1 1 1 1
+1 1 2 1 1
+1 1 1 4 4
+1 1 1 4 5
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4 5
+S1: 1 3
+Resonance #2
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #3
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 4 5
+S1: 1 3 4 5
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #237
+1 1 1 1 1
+1 1 1 1 1
+1 1 2 1 1
+1 1 1 4 5
+1 1 1 5 4
+has #8 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4
+S1: 1 3 5
+Resonance #2
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #3
+S0: 1 2 4 5
+S1: 1 3
+Resonance #4
+S0: 1 2 3 4
+S1: 1 5
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #7
+S0: 1 2 4 5
+S1: 1 3 4 5
+Resonance #8
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #245
+1 1 1 1 1
+1 1 1 1 1
+1 1 2 1 2
+1 1 1 2 2
+1 1 2 2 2
+has #13 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #4
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #9
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #10
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #11
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #246
+1 1 1 1 1
+1 1 1 1 1
+1 1 2 1 2
+1 1 1 4 1
+1 1 2 1 2
+has #9 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4
+S1: 1 3 5
+Resonance #2
+S0: 1 2 4
+S1: 1 3 4 5
+Resonance #3
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #4
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #5
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #6
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #7
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #8
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #9
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #247
+1 1 1 1 1
+1 1 1 1 1
+1 1 2 1 2
+1 1 1 4 4
+1 1 2 4 4
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #4
+S0: 1 2 3 4
+S1: 1 2 4 5
+************************************
+The semigroup #254
+1 1 1 1 1
+1 1 1 1 1
+1 1 2 2 2
+1 1 2 2 2
+1 1 2 2 2
+has #13 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #4
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #9
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #10
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #11
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #13
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #255
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 1 1
+1 1 1 4 1
+1 1 1 1 5
+has #7 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 5
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 4 5
+Resonance #6
+S0: 1 3 4 5
+S1: 1 2 3 5
+Resonance #7
+S0: 1 3 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #258
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 1 1
+1 1 1 4 4
+1 1 1 4 4
+has #9 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4
+S1: 1 2 4 5
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #5
+S0: 1 2 3 4
+S1: 1 4 5
+Resonance #6
+S0: 1 3 4 5
+S1: 1 2 4 5
+Resonance #7
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #8
+S0: 1 2 3 4
+S1: 1 3 4 5
+Resonance #9
+S0: 1 2 3 4
+S1: 1 2 4 5
+************************************
+The semigroup #259
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 1 1
+1 1 1 4 4
+1 1 1 4 5
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2 4 5
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #262
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 1 1
+1 1 1 4 5
+1 1 1 5 4
+has #9 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4
+S1: 1 2 5
+Resonance #2
+S0: 1 3 4
+S1: 1 2 3 5
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2
+Resonance #4
+S0: 1 2 3 4
+S1: 1 5
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 4
+S1: 1 3 5
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #8
+S0: 1 3 4 5
+S1: 1 2 4 5
+Resonance #9
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #275
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 1 3
+1 1 1 4 4
+1 1 3 4 5
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #295
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 3 3
+1 1 3 3 3
+1 1 3 3 3
+has #13 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 3 4
+S1: 1 2 3 5
+Resonance #3
+S0: 1 2 3
+S1: 1 3 4 5
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #7
+S0: 1 2 3 4
+S1: 1 3 5
+Resonance #8
+S0: 1 3 4 5
+S1: 1 2 3 5
+Resonance #9
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #10
+S0: 1 2 3 5
+S1: 1 3 4 5
+Resonance #11
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #12
+S0: 1 2 3 4
+S1: 1 3 4 5
+Resonance #13
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #296
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 3 3
+1 1 3 3 3
+1 1 3 3 4
+has #7 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4
+S1: 1 2 3 5
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 3 4
+S1: 1 3 5
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 3 4
+S1: 1 3 4 5
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #297
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 3 3
+1 1 3 3 3
+1 1 3 3 5
+has #8 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 3 5
+Resonance #6
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #7
+S0: 1 2 3 5
+S1: 1 3 4 5
+Resonance #8
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #302
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 3 3
+1 1 3 3 4
+1 1 3 4 5
+has #6 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #305
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 3 3
+1 1 3 4 3
+1 1 3 3 5
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3 5
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #308
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 3 3
+1 1 3 4 4
+1 1 3 4 4
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #4
+S0: 1 2 3 4
+S1: 1 3 4 5
+************************************
+The semigroup #309
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 3 3
+1 1 3 4 4
+1 1 3 4 5
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #312
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 3 3
+1 1 3 4 5
+1 1 3 5 4
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4
+S1: 1 2 3 5
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 3 4
+S1: 1 3 5
+Resonance #5
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #322
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 3 5
+1 1 3 3 5
+1 1 5 5 3
+has #6 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4
+S1: 1 2 5
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 2 3 4
+S1: 1 5
+Resonance #4
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 3 5
+Resonance #6
+S0: 1 2 3 5
+S1: 1 3 4 5
+************************************
+The semigroup #324
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 3 5
+1 1 3 4 5
+1 1 5 5 3
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4
+S1: 1 2 5
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 2 3 4
+S1: 1 5
+Resonance #4
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 3 5
+************************************
+The semigroup #331
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 4 4
+1 1 4 3 3
+1 1 4 3 3
+has #6 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3
+S1: 1 2 4 5
+Resonance #2
+S0: 1 2 3
+S1: 1 4 5
+Resonance #3
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 3 4
+S1: 1 3 4 5
+************************************
+The semigroup #338
+1 1 1 1 1
+1 1 1 1 1
+1 1 3 4 5
+1 1 4 5 3
+1 1 5 3 4
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+************************************
+The semigroup #406
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 1 2
+1 1 1 1 2
+1 2 2 2 5
+has #8 resonances and 1 is the zero element
+Resonance #1
+S0: 1 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #6
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #7
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #8
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #410
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 1 2
+1 1 1 1 4
+1 2 2 4 5
+has #9 resonances and 1 is the zero element
+Resonance #1
+S0: 1 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #4
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #5
+S0: 1 2 3 5
+S1: 1 4
+Resonance #6
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #7
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #9
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #413
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 1 2
+1 1 1 2 4
+1 2 2 4 5
+has #6 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 2 3 5
+S1: 1 4
+Resonance #3
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #415
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 1 2
+1 1 1 4 1
+1 2 2 1 5
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #417
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 1 2
+1 1 1 4 4
+1 2 2 4 5
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #433
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 1 3
+1 1 1 1 4
+1 2 3 4 5
+has #19 resonances and 1 is the zero element
+Resonance #1
+S0: 1 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 3 5
+S1: 1 2 4
+Resonance #4
+S0: 1 2 5
+S1: 1 3 4
+Resonance #5
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 3 5
+S1: 1 2 3 4
+Resonance #7
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #8
+S0: 1 3 4 5
+S1: 1 2
+Resonance #9
+S0: 1 2 4 5
+S1: 1 3
+Resonance #10
+S0: 1 2 3 5
+S1: 1 4
+Resonance #11
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #12
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #13
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #14
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #15
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #16
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #17
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #18
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #19
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #434
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 1 3
+1 1 1 2 4
+1 2 3 4 5
+has #9 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4 5
+S1: 1 3
+Resonance #4
+S0: 1 2 3 5
+S1: 1 4
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #7
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #9
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #435
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 1 3
+1 1 1 4 1
+1 2 3 1 5
+has #10 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2
+Resonance #4
+S0: 1 2 4 5
+S1: 1 3
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #6
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #7
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #9
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #10
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #436
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 1 3
+1 1 1 4 4
+1 2 3 4 5
+has #10 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 4 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2
+Resonance #4
+S0: 1 2 4 5
+S1: 1 3
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #6
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #7
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #9
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #10
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #459
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 2 3
+1 1 2 1 4
+1 2 3 4 5
+has #8 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 3 5
+S1: 1 2 4
+Resonance #3
+S0: 1 2 5
+S1: 1 3 4
+Resonance #4
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #7
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #8
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #460
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 2 3
+1 1 2 2 4
+1 2 3 4 5
+has #6 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #461
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 2 3
+1 1 2 3 4
+1 2 3 4 5
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 5
+S1: 1 2 4
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #3
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #462
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 3 1
+1 1 3 4 1
+1 2 1 1 5
+has #7 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 2 4 5
+S1: 1 3
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #7
+S0: 1 2 4 5
+S1: 1 2 3 5
+************************************
+The semigroup #466
+1 1 1 1 1
+1 1 1 1 2
+1 1 1 3 3
+1 1 3 4 4
+1 2 3 4 5
+has #6 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 2 4 5
+S1: 1 3
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 3 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #469
+1 1 1 1 1
+1 1 1 1 2
+1 1 2 1 3
+1 1 1 2 4
+1 2 3 4 5
+has #8 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4 5
+S1: 1 3
+Resonance #4
+S0: 1 2 3 5
+S1: 1 4
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #7
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #8
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #470
+1 1 1 1 1
+1 1 1 1 2
+1 1 2 1 3
+1 1 1 4 1
+1 2 3 1 5
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4 5
+S1: 1 3
+Resonance #2
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #3
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #471
+1 1 1 1 1
+1 1 1 1 2
+1 1 2 1 3
+1 1 1 4 4
+1 2 3 4 5
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4 5
+S1: 1 3
+Resonance #2
+S0: 1 2 4 5
+S1: 1 3 4
+Resonance #3
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #475
+1 1 1 1 1
+1 1 1 1 2
+1 1 2 2 3
+1 1 2 2 3
+1 2 3 3 5
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #477
+1 1 1 1 1
+1 1 1 1 2
+1 1 2 2 3
+1 1 2 2 4
+1 2 3 4 5
+has #6 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #478
+1 1 1 1 1
+1 1 1 1 2
+1 1 3 1 1
+1 1 1 4 1
+1 2 1 1 5
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #479
+1 1 1 1 1
+1 1 1 1 2
+1 1 3 1 1
+1 1 1 4 4
+1 2 1 4 5
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #488
+1 1 1 1 1
+1 1 1 1 2
+1 1 3 1 3
+1 1 1 4 4
+1 2 3 4 5
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 4
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #496
+1 1 1 1 1
+1 1 1 1 2
+1 1 3 3 1
+1 1 3 3 1
+1 2 1 1 5
+has #6 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #497
+1 1 1 1 1
+1 1 1 1 2
+1 1 3 3 1
+1 1 3 3 2
+1 2 1 2 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #498
+1 1 1 1 1
+1 1 1 1 2
+1 1 3 3 1
+1 1 3 4 1
+1 2 1 1 5
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #500
+1 1 1 1 1
+1 1 1 1 2
+1 1 3 3 3
+1 1 3 3 3
+1 2 3 3 5
+has #6 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #502
+1 1 1 1 1
+1 1 1 1 2
+1 1 3 3 3
+1 1 3 3 4
+1 2 3 4 5
+has #6 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #503
+1 1 1 1 1
+1 1 1 1 2
+1 1 3 3 3
+1 1 3 4 3
+1 2 3 3 5
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #504
+1 1 1 1 1
+1 1 1 1 2
+1 1 3 3 3
+1 1 3 4 4
+1 2 3 4 5
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 3 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #509
+1 1 1 1 1
+1 1 1 1 2
+1 1 3 4 1
+1 1 4 3 1
+1 2 1 1 5
+has #6 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 5
+S1: 1 2 4
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 2 3 5
+S1: 1 4
+Resonance #4
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 4 5
+************************************
+The semigroup #512
+1 1 1 1 1
+1 1 1 1 2
+1 1 3 4 3
+1 1 4 3 4
+1 2 3 4 5
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 5
+S1: 1 2 4
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 2 3 5
+S1: 1 4
+Resonance #4
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #5
+S0: 1 3 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #582
+1 1 1 1 1
+1 1 1 2 2
+1 1 1 2 2
+1 2 2 4 4
+1 2 2 4 4
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #4
+S0: 1 2 3 4
+S1: 1 2 4 5
+************************************
+The semigroup #583
+1 1 1 1 1
+1 1 1 2 2
+1 1 1 2 2
+1 2 2 4 4
+1 2 2 4 5
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #586
+1 1 1 1 1
+1 1 1 2 2
+1 1 1 2 2
+1 2 2 4 5
+1 2 2 5 4
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #3
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #4
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #5
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #592
+1 1 1 1 1
+1 1 1 2 2
+1 1 1 2 3
+1 2 2 4 4
+1 2 3 4 5
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #595
+1 1 1 1 1
+1 1 1 2 2
+1 1 1 3 3
+1 2 3 4 4
+1 2 3 4 4
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 2 4 5
+S1: 1 3
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+************************************
+The semigroup #596
+1 1 1 1 1
+1 1 1 2 2
+1 1 1 3 3
+1 2 3 4 4
+1 2 3 4 5
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 2 4 5
+S1: 1 3
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+************************************
+The semigroup #598
+1 1 1 1 1
+1 1 1 2 2
+1 1 1 3 3
+1 2 3 4 5
+1 2 3 5 4
+has #6 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+Resonance #3
+S0: 1 2 4 5
+S1: 1 3
+Resonance #4
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #6
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #600
+1 1 1 1 1
+1 1 1 2 2
+1 1 2 3 3
+1 2 3 4 4
+1 2 3 4 4
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4 5
+S1: 1 3
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3
+************************************
+The semigroup #601
+1 1 1 1 1
+1 1 1 2 2
+1 1 2 3 3
+1 2 3 4 4
+1 2 3 4 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4 5
+S1: 1 3
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3
+************************************
+The semigroup #603
+1 1 1 1 1
+1 1 1 2 2
+1 1 2 3 3
+1 2 3 4 5
+1 2 3 5 4
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4 5
+S1: 1 3
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #604
+1 1 1 1 1
+1 1 1 2 2
+1 1 3 1 1
+1 2 1 4 4
+1 2 1 4 4
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 4 5
+************************************
+The semigroup #605
+1 1 1 1 1
+1 1 1 2 2
+1 1 3 1 1
+1 2 1 4 4
+1 2 1 4 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 3
+************************************
+The semigroup #607
+1 1 1 1 1
+1 1 1 2 2
+1 1 3 1 1
+1 2 1 4 5
+1 2 1 5 4
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #4
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #608
+1 1 1 1 1
+1 1 1 2 2
+1 1 3 1 3
+1 2 1 4 4
+1 2 3 4 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 3
+************************************
+The semigroup #609
+1 1 1 1 1
+1 1 1 2 2
+1 1 3 3 3
+1 2 3 4 4
+1 2 3 4 4
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 3
+************************************
+The semigroup #610
+1 1 1 1 1
+1 1 1 2 2
+1 1 3 3 3
+1 2 3 4 4
+1 2 3 4 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 3
+************************************
+The semigroup #612
+1 1 1 1 1
+1 1 1 2 2
+1 1 3 3 3
+1 2 3 4 5
+1 2 3 5 4
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #654
+1 1 1 1 1
+1 1 1 2 3
+1 1 1 3 2
+1 2 3 4 5
+1 3 2 5 4
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 3 4
+S1: 1 2 5
+Resonance #3
+S0: 1 2 4
+S1: 1 3 5
+Resonance #4
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #662
+1 1 1 1 1
+1 1 2 2 2
+1 2 3 3 3
+1 2 3 3 3
+1 2 3 3 3
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #663
+1 1 1 1 1
+1 1 2 2 2
+1 2 3 3 3
+1 2 3 3 3
+1 2 3 3 4
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #664
+1 1 1 1 1
+1 1 2 2 2
+1 2 3 3 3
+1 2 3 3 3
+1 2 3 3 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #667
+1 1 1 1 1
+1 1 2 2 2
+1 2 3 3 3
+1 2 3 3 4
+1 2 3 4 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #668
+1 1 1 1 1
+1 1 2 2 2
+1 2 3 3 3
+1 2 3 4 3
+1 2 3 3 5
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+************************************
+The semigroup #670
+1 1 1 1 1
+1 1 2 2 2
+1 2 3 3 3
+1 2 3 4 4
+1 2 3 4 4
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+************************************
+The semigroup #671
+1 1 1 1 1
+1 1 2 2 2
+1 2 3 3 3
+1 2 3 4 4
+1 2 3 4 5
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+************************************
+The semigroup #673
+1 1 1 1 1
+1 1 2 2 2
+1 2 3 3 3
+1 2 3 4 5
+1 2 3 5 4
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #676
+1 1 1 1 1
+1 1 2 2 2
+1 2 3 3 5
+1 2 3 3 5
+1 2 5 5 3
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 2 3 4
+S1: 1 2 5
+************************************
+The semigroup #677
+1 1 1 1 1
+1 1 2 2 2
+1 2 3 3 5
+1 2 3 4 5
+1 2 5 5 3
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+Resonance #2
+S0: 1 2 3 4
+S1: 1 2 5
+************************************
+The semigroup #678
+1 1 1 1 1
+1 1 2 2 2
+1 2 3 4 4
+1 2 4 3 3
+1 2 4 3 3
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #2
+S0: 1 3 4 5
+S1: 1 2
+************************************
+The semigroup #679
+1 1 1 1 1
+1 1 2 2 2
+1 2 3 4 5
+1 2 4 5 3
+1 2 5 3 4
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 3 4 5
+S1: 1 2
+************************************
+The semigroup #682
+1 1 1 1 1
+1 2 1 1 1
+1 1 3 1 1
+1 1 1 4 4
+1 1 1 4 4
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 4 5
+Resonance #2
+S0: 1 2 3 4
+S1: 1 3 4 5
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 4 5
+************************************
+The semigroup #685
+1 1 1 1 1
+1 2 1 1 1
+1 1 3 1 1
+1 1 1 4 5
+1 1 1 5 4
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 5
+Resonance #2
+S0: 1 2 3 4
+S1: 1 3 5
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #4
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #698
+1 1 1 1 1
+1 2 1 1 1
+1 1 3 3 3
+1 1 3 3 3
+1 1 3 3 3
+has #7 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #3
+S0: 1 2 3 4
+S1: 1 3 5
+Resonance #4
+S0: 1 2 3 5
+S1: 1 3 4 5
+Resonance #5
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 3 4
+S1: 1 3 4 5
+Resonance #7
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #699
+1 1 1 1 1
+1 2 1 1 1
+1 1 3 3 3
+1 1 3 3 3
+1 1 3 3 4
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 3 5
+Resonance #2
+S0: 1 2 3 4
+S1: 1 3 4 5
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #700
+1 1 1 1 1
+1 2 1 1 1
+1 1 3 3 3
+1 1 3 3 3
+1 1 3 3 5
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 3 5
+S1: 1 3 4 5
+Resonance #3
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #703
+1 1 1 1 1
+1 2 1 1 1
+1 1 3 3 3
+1 1 3 3 4
+1 1 3 4 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #706
+1 1 1 1 1
+1 2 1 1 1
+1 1 3 3 3
+1 1 3 4 4
+1 1 3 4 4
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 3 4 5
+************************************
+The semigroup #709
+1 1 1 1 1
+1 2 1 1 1
+1 1 3 3 3
+1 1 3 4 5
+1 1 3 5 4
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 3 5
+Resonance #2
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #712
+1 1 1 1 1
+1 2 1 1 1
+1 1 3 3 5
+1 1 3 3 5
+1 1 5 5 3
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 5
+Resonance #2
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #3
+S0: 1 2 3 5
+S1: 1 3 4 5
+************************************
+The semigroup #714
+1 1 1 1 1
+1 2 1 1 1
+1 1 3 3 5
+1 1 3 4 5
+1 1 5 5 3
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 5
+Resonance #2
+S0: 1 2 3 4
+S1: 1 2 5
+************************************
+The semigroup #717
+1 1 1 1 1
+1 2 1 1 1
+1 1 3 4 4
+1 1 4 3 3
+1 1 4 3 3
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 4 5
+Resonance #2
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #3
+S0: 1 2 3 4
+S1: 1 3 4 5
+************************************
+The semigroup #737
+1 1 1 1 1
+1 2 1 1 2
+1 1 3 3 1
+1 1 3 3 1
+1 2 1 1 2
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #3
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #4
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #738
+1 1 1 1 1
+1 2 1 1 2
+1 1 3 3 1
+1 1 3 3 1
+1 2 1 1 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #743
+1 1 1 1 1
+1 2 1 1 2
+1 1 3 3 3
+1 1 3 3 3
+1 2 3 3 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #745
+1 1 1 1 1
+1 2 1 1 2
+1 1 3 3 3
+1 1 3 3 4
+1 2 3 4 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #751
+1 1 1 1 1
+1 2 1 1 2
+1 1 3 4 1
+1 1 4 3 1
+1 2 1 1 2
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #2
+S0: 1 2 3 5
+S1: 1 4
+Resonance #3
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #4
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #5
+S0: 1 2 3 5
+S1: 1 2 4 5
+************************************
+The semigroup #752
+1 1 1 1 1
+1 2 1 1 2
+1 1 3 4 1
+1 1 4 3 1
+1 2 1 1 5
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 5
+S1: 1 4
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #3
+S0: 1 2 3 5
+S1: 1 2 4 5
+************************************
+The semigroup #757
+1 1 1 1 1
+1 2 1 1 2
+1 1 3 4 3
+1 1 4 3 4
+1 2 3 4 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 5
+S1: 1 4
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 4
+************************************
+The semigroup #770
+1 1 1 1 1
+1 2 1 1 5
+1 1 3 4 1
+1 1 4 3 1
+1 5 1 1 2
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 4 5
+Resonance #2
+S0: 1 2 3 5
+S1: 1 4
+Resonance #3
+S0: 1 2 3 4
+S1: 1 5
+Resonance #4
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #5
+S0: 1 2 3 4
+S1: 1 3 4 5
+************************************
+The semigroup #779
+1 1 1 1 1
+1 2 1 2 2
+1 1 3 3 3
+1 2 3 4 5
+1 2 3 5 4
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #835
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 2 2
+has #12 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #3
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #4
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #5
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #6
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #7
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #8
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #9
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #10
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #11
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #12
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #836
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 2 3
+has #6 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #4
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #5
+S0: 1 2 3 4
+S1: 1 2 4 5
+Resonance #6
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #837
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 2 5
+has #7 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #4
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #5
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #6
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #7
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #844
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 2 3
+1 2 2 3 2
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #3
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #4
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #5
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #845
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 2 3
+1 2 2 3 3
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #846
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 2 3
+1 2 2 3 4
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #2
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #847
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 2 4
+1 2 2 4 5
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #4
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #5
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #850
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 3 2
+1 2 2 2 3
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #4
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #5
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #851
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 3 2
+1 2 2 2 5
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 4 5
+Resonance #3
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #854
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 3 3
+1 2 2 3 3
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 2 4 5
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #855
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 4 2
+1 2 2 2 5
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #3
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #858
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 4 4
+1 2 2 4 4
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 4 5
+************************************
+The semigroup #859
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 4 4
+1 2 2 4 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #862
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 2
+1 2 2 4 5
+1 2 2 5 4
+has #4 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4
+S1: 1 2 3 5
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #4
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #874
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 3
+1 2 2 2 3
+1 2 3 3 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #876
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 3
+1 2 2 2 4
+1 2 3 4 5
+has #5 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #3
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #4
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #5
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #877
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 3
+1 2 2 3 4
+1 2 3 4 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 5
+S1: 1 2 4
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #878
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 3
+1 2 2 4 2
+1 2 3 2 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #879
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 2 3
+1 2 2 4 4
+1 2 3 4 5
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3 4
+************************************
+The semigroup #889
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 3 3
+1 2 3 4 4
+1 2 3 4 4
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4 5
+S1: 1 2 3
+************************************
+The semigroup #890
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 3 3
+1 2 3 4 4
+1 2 3 4 5
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4 5
+S1: 1 2 3
+************************************
+The semigroup #892
+1 1 1 1 1
+1 2 2 2 2
+1 2 2 3 3
+1 2 3 4 5
+1 2 3 5 4
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 4 5
+S1: 1 2 3
+Resonance #2
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #895
+1 1 1 1 1
+1 2 2 2 2
+1 2 3 2 2
+1 2 2 4 4
+1 2 2 4 4
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 2 4 5
+************************************
+The semigroup #898
+1 1 1 1 1
+1 2 2 2 2
+1 2 3 2 2
+1 2 2 4 5
+1 2 2 5 4
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 2 5
+Resonance #2
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #911
+1 1 1 1 1
+1 2 2 2 2
+1 2 3 3 3
+1 2 3 3 3
+1 2 3 3 3
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #2
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #912
+1 1 1 1 1
+1 2 2 2 2
+1 2 3 3 3
+1 2 3 3 3
+1 2 3 3 4
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #913
+1 1 1 1 1
+1 2 2 2 2
+1 2 3 3 3
+1 2 3 3 3
+1 2 3 3 5
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #916
+1 1 1 1 1
+1 2 2 2 2
+1 2 3 3 3
+1 2 3 3 4
+1 2 3 4 5
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 5
+S1: 1 2 3 4
+************************************
+The semigroup #922
+1 1 1 1 1
+1 2 2 2 2
+1 2 3 3 3
+1 2 3 4 5
+1 2 3 5 4
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #925
+1 1 1 1 1
+1 2 2 2 2
+1 2 3 3 5
+1 2 3 3 5
+1 2 5 5 3
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 2 5
+************************************
+The semigroup #927
+1 1 1 1 1
+1 2 2 2 2
+1 2 3 3 5
+1 2 3 4 5
+1 2 5 5 3
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 2 5
+************************************
+The semigroup #930
+1 1 1 1 1
+1 2 2 2 2
+1 2 3 4 4
+1 2 4 3 3
+1 2 4 3 3
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 2 4 5
+************************************
+The semigroup #937
+1 1 1 1 1
+1 2 2 2 5
+1 2 2 2 5
+1 2 2 2 5
+1 5 5 5 2
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 5
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3 5
+Resonance #3
+S0: 1 2 3 5
+S1: 1 2 4 5
+************************************
+The semigroup #939
+1 1 1 1 1
+1 2 2 2 5
+1 2 2 2 5
+1 2 2 3 5
+1 5 5 5 2
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 5
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 4 5
+************************************
+The semigroup #941
+1 1 1 1 1
+1 2 2 2 5
+1 2 2 2 5
+1 2 2 4 5
+1 5 5 5 2
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 5
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3 5
+************************************
+The semigroup #947
+1 1 1 1 1
+1 2 2 2 5
+1 2 2 3 5
+1 2 3 4 5
+1 5 5 5 2
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 5
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3 5
+************************************
+The semigroup #949
+1 1 1 1 1
+1 2 2 2 5
+1 2 3 2 5
+1 2 2 4 5
+1 5 5 5 2
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 5
+************************************
+The semigroup #952
+1 1 1 1 1
+1 2 2 2 5
+1 2 3 3 5
+1 2 3 3 5
+1 5 5 5 2
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 5
+************************************
+The semigroup #954
+1 1 1 1 1
+1 2 2 2 5
+1 2 3 3 5
+1 2 3 4 5
+1 5 5 5 2
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 5
+************************************
+The semigroup #959
+1 1 1 1 1
+1 2 2 2 5
+1 2 3 4 5
+1 2 4 3 5
+1 5 5 5 2
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3 4
+S1: 1 5
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 4 5
+************************************
+The semigroup #963
+1 1 1 1 1
+1 2 2 4 4
+1 2 2 4 4
+1 4 4 2 2
+1 4 4 2 2
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 4 5
+Resonance #2
+S0: 1 2 4 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 4 5
+************************************
+The semigroup #964
+1 1 1 1 1
+1 2 2 4 4
+1 2 2 4 4
+1 4 4 2 2
+1 4 4 2 3
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 4 5
+Resonance #2
+S0: 1 2 3 4
+S1: 1 2 4 5
+************************************
+The semigroup #965
+1 1 1 1 1
+1 2 2 4 4
+1 2 3 4 4
+1 4 4 2 2
+1 4 4 2 2
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 4 5
+Resonance #2
+S0: 1 2 3 4
+S1: 1 2 4 5
+************************************
+The semigroup #967
+1 1 1 1 1
+1 2 2 4 4
+1 2 3 4 5
+1 4 4 2 2
+1 4 5 2 2
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 4 5
+Resonance #2
+S0: 1 2 3 4
+S1: 1 2 4 5
+************************************
+The semigroup #968
+1 1 1 1 1
+1 2 2 4 4
+1 2 3 4 5
+1 4 4 2 2
+1 4 5 2 3
+has #2 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 4 5
+Resonance #2
+S0: 1 2 3 4
+S1: 1 2 4 5
+************************************
+The semigroup #983
+1 1 1 1 1
+1 2 3 3 3
+1 3 2 2 2
+1 3 2 2 2
+1 3 2 2 2
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2
+S1: 1 3 4 5
+Resonance #2
+S0: 1 2 3 5
+S1: 1 2 3 4
+Resonance #3
+S0: 1 2 3 4
+S1: 1 2 3 5
+************************************
+The semigroup #990
+1 1 1 1 1
+1 2 3 4 5
+1 3 2 5 4
+1 4 5 2 3
+1 5 4 3 2
+has #3 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 5
+S1: 1 3 4
+Resonance #2
+S0: 1 2 4
+S1: 1 3 5
+Resonance #3
+S0: 1 2 3
+S1: 1 4 5
+************************************
+The semigroup #991
+1 1 1 1 1
+1 2 3 4 5
+1 3 2 5 4
+1 4 5 3 2
+1 5 4 2 3
+has #1 resonances and 1 is the zero element
+Resonance #1
+S0: 1 2 3
+S1: 1 4 5
+************************************
+There are 204 semigroups with zero element and at least one resonance. In total, they have 1295 different resonances.

@@ -1,0 +1,712 @@
+This is the output of the program II_findAllResonances_ord2_to_6.java, which gives the list of semigroups of order4with resonant decompositions.
+The number of semigroups with at least one resonance and the total number of different resonances is given at the end of the file.
+************************************
+The semigroup #1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+has #12 resonances.
+Resonance #1
+S0: 1 4
+S1: 1 2 3
+Resonance #2
+S0: 1 3
+S1: 1 2 4
+Resonance #3
+S0: 1 2
+S1: 1 3 4
+Resonance #4
+S0: 1 3 4
+S1: 1 2
+Resonance #5
+S0: 1 2 4
+S1: 1 3
+Resonance #6
+S0: 1 2 3
+S1: 1 4
+Resonance #7
+S0: 1 3 4
+S1: 1 2 4
+Resonance #8
+S0: 1 3 4
+S1: 1 2 3
+Resonance #9
+S0: 1 2 4
+S1: 1 3 4
+Resonance #10
+S0: 1 2 4
+S1: 1 2 3
+Resonance #11
+S0: 1 2 3
+S1: 1 3 4
+Resonance #12
+S0: 1 2 3
+S1: 1 2 4
+************************************
+The semigroup #2
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 2
+has #6 resonances.
+Resonance #1
+S0: 1 2
+S1: 1 3 4
+Resonance #2
+S0: 1 2 4
+S1: 1 3
+Resonance #3
+S0: 1 2 3
+S1: 1 4
+Resonance #4
+S0: 1 2 4
+S1: 1 2 3
+Resonance #5
+S0: 1 2 3
+S1: 1 3 4
+Resonance #6
+S0: 1 2 3
+S1: 1 2 4
+************************************
+The semigroup #3
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 4
+has #7 resonances.
+Resonance #1
+S0: 1 4
+S1: 1 2 3
+Resonance #2
+S0: 1 3 4
+S1: 1 2
+Resonance #3
+S0: 1 2 4
+S1: 1 3
+Resonance #4
+S0: 1 3 4
+S1: 1 2 4
+Resonance #5
+S0: 1 3 4
+S1: 1 2 3
+Resonance #6
+S0: 1 2 4
+S1: 1 3 4
+Resonance #7
+S0: 1 2 4
+S1: 1 2 3
+************************************
+The semigroup #10
+1 1 1 1
+1 1 1 1
+1 1 1 2
+1 1 2 1
+has #5 resonances.
+Resonance #1
+S0: 1 4
+S1: 1 2 3
+Resonance #2
+S0: 1 3
+S1: 1 2 4
+Resonance #3
+S0: 1 2
+S1: 1 3 4
+Resonance #4
+S0: 1 2 4
+S1: 1 2 3
+Resonance #5
+S0: 1 2 3
+S1: 1 2 4
+************************************
+The semigroup #11
+1 1 1 1
+1 1 1 1
+1 1 1 2
+1 1 2 2
+has #3 resonances.
+Resonance #1
+S0: 1 2
+S1: 1 3 4
+Resonance #2
+S0: 1 2 4
+S1: 1 2 3
+Resonance #3
+S0: 1 2 3
+S1: 1 2 4
+************************************
+The semigroup #12
+1 1 1 1
+1 1 1 1
+1 1 1 2
+1 1 2 3
+has #2 resonances.
+Resonance #1
+S0: 1 3
+S1: 1 2 4
+Resonance #2
+S0: 1 2 3
+S1: 1 2 4
+************************************
+The semigroup #13
+1 1 1 1
+1 1 1 1
+1 1 1 3
+1 1 3 4
+has #5 resonances.
+Resonance #1
+S0: 1 4
+S1: 1 2 3
+Resonance #2
+S0: 1 3 4
+S1: 1 2
+Resonance #3
+S0: 1 2 4
+S1: 1 3
+Resonance #4
+S0: 1 3 4
+S1: 1 2 3
+Resonance #5
+S0: 1 2 4
+S1: 1 2 3
+************************************
+The semigroup #16
+1 1 1 1
+1 1 1 1
+1 1 2 1
+1 1 1 2
+has #5 resonances.
+Resonance #1
+S0: 1 2
+S1: 1 3 4
+Resonance #2
+S0: 1 2 4
+S1: 1 3
+Resonance #3
+S0: 1 2 3
+S1: 1 4
+Resonance #4
+S0: 1 2 4
+S1: 1 2 3
+Resonance #5
+S0: 1 2 3
+S1: 1 2 4
+************************************
+The semigroup #17
+1 1 1 1
+1 1 1 1
+1 1 2 1
+1 1 1 4
+has #3 resonances.
+Resonance #1
+S0: 1 2 4
+S1: 1 3
+Resonance #2
+S0: 1 2 4
+S1: 1 3 4
+Resonance #3
+S0: 1 2 4
+S1: 1 2 3
+************************************
+The semigroup #20
+1 1 1 1
+1 1 1 1
+1 1 2 2
+1 1 2 2
+has #3 resonances.
+Resonance #1
+S0: 1 2
+S1: 1 3 4
+Resonance #2
+S0: 1 2 4
+S1: 1 2 3
+Resonance #3
+S0: 1 2 3
+S1: 1 2 4
+************************************
+The semigroup #21
+1 1 1 1
+1 1 1 1
+1 1 3 1
+1 1 1 4
+has #3 resonances.
+Resonance #1
+S0: 1 3 4
+S1: 1 2
+Resonance #2
+S0: 1 3 4
+S1: 1 2 4
+Resonance #3
+S0: 1 3 4
+S1: 1 2 3
+************************************
+The semigroup #24
+1 1 1 1
+1 1 1 1
+1 1 3 3
+1 1 3 3
+has #3 resonances.
+Resonance #1
+S0: 1 3 4
+S1: 1 2
+Resonance #2
+S0: 1 3 4
+S1: 1 2 3
+Resonance #3
+S0: 1 2 3
+S1: 1 3 4
+************************************
+The semigroup #25
+1 1 1 1
+1 1 1 1
+1 1 3 3
+1 1 3 4
+has #2 resonances.
+Resonance #1
+S0: 1 3 4
+S1: 1 2
+Resonance #2
+S0: 1 3 4
+S1: 1 2 3
+************************************
+The semigroup #28
+1 1 1 1
+1 1 1 1
+1 1 3 4
+1 1 4 3
+has #4 resonances.
+Resonance #1
+S0: 1 3
+S1: 1 2 4
+Resonance #2
+S0: 1 3 4
+S1: 1 2
+Resonance #3
+S0: 1 2 3
+S1: 1 4
+Resonance #4
+S0: 1 2 3
+S1: 1 2 4
+************************************
+The semigroup #40
+1 1 1 1
+1 1 1 2
+1 1 1 2
+1 2 2 4
+has #2 resonances.
+Resonance #1
+S0: 1 4
+S1: 1 2 3
+Resonance #2
+S0: 1 2 4
+S1: 1 2 3
+************************************
+The semigroup #42
+1 1 1 1
+1 1 1 2
+1 1 1 3
+1 2 3 4
+has #5 resonances.
+Resonance #1
+S0: 1 4
+S1: 1 2 3
+Resonance #2
+S0: 1 3 4
+S1: 1 2
+Resonance #3
+S0: 1 2 4
+S1: 1 3
+Resonance #4
+S0: 1 3 4
+S1: 1 2 3
+Resonance #5
+S0: 1 2 4
+S1: 1 2 3
+************************************
+The semigroup #43
+1 1 1 1
+1 1 1 2
+1 1 2 3
+1 2 3 4
+has #2 resonances.
+Resonance #1
+S0: 1 2 4
+S1: 1 3
+Resonance #2
+S0: 1 2 4
+S1: 1 2 3
+************************************
+The semigroup #44
+1 1 1 1
+1 1 1 2
+1 1 3 1
+1 2 1 4
+has #2 resonances.
+Resonance #1
+S0: 1 3 4
+S1: 1 2
+Resonance #2
+S0: 1 3 4
+S1: 1 2 3
+************************************
+The semigroup #45
+1 1 1 1
+1 1 1 2
+1 1 3 3
+1 2 3 4
+has #2 resonances.
+Resonance #1
+S0: 1 3 4
+S1: 1 2
+Resonance #2
+S0: 1 3 4
+S1: 1 2 3
+************************************
+The semigroup #55
+1 1 1 1
+1 1 2 2
+1 2 3 3
+1 2 3 3
+has #1 resonances.
+Resonance #1
+S0: 1 3 4
+S1: 1 2
+************************************
+The semigroup #56
+1 1 1 1
+1 1 2 2
+1 2 3 3
+1 2 3 4
+has #1 resonances.
+Resonance #1
+S0: 1 3 4
+S1: 1 2
+************************************
+The semigroup #58
+1 1 1 1
+1 1 2 2
+1 2 3 4
+1 2 4 3
+has #2 resonances.
+Resonance #1
+S0: 1 3 4
+S1: 1 2
+Resonance #2
+S0: 1 2 3
+S1: 1 2 4
+************************************
+The semigroup #61
+1 1 1 1
+1 2 1 1
+1 1 3 3
+1 1 3 3
+has #1 resonances.
+Resonance #1
+S0: 1 2 3
+S1: 1 3 4
+************************************
+The semigroup #64
+1 1 1 1
+1 2 1 1
+1 1 3 4
+1 1 4 3
+has #2 resonances.
+Resonance #1
+S0: 1 2 3
+S1: 1 4
+Resonance #2
+S0: 1 2 3
+S1: 1 2 4
+************************************
+The semigroup #77
+1 1 1 1
+1 2 2 2
+1 2 2 2
+1 2 2 2
+has #2 resonances.
+Resonance #1
+S0: 1 2 4
+S1: 1 2 3
+Resonance #2
+S0: 1 2 3
+S1: 1 2 4
+************************************
+The semigroup #78
+1 1 1 1
+1 2 2 2
+1 2 2 2
+1 2 2 3
+has #1 resonances.
+Resonance #1
+S0: 1 2 3
+S1: 1 2 4
+************************************
+The semigroup #79
+1 1 1 1
+1 2 2 2
+1 2 2 2
+1 2 2 4
+has #1 resonances.
+Resonance #1
+S0: 1 2 4
+S1: 1 2 3
+************************************
+The semigroup #82
+1 1 1 1
+1 2 2 2
+1 2 2 3
+1 2 3 4
+has #1 resonances.
+Resonance #1
+S0: 1 2 4
+S1: 1 2 3
+************************************
+The semigroup #88
+1 1 1 1
+1 2 2 2
+1 2 3 4
+1 2 4 3
+has #1 resonances.
+Resonance #1
+S0: 1 2 3
+S1: 1 2 4
+************************************
+The semigroup #91
+1 1 1 1
+1 2 2 4
+1 2 2 4
+1 4 4 2
+has #1 resonances.
+Resonance #1
+S0: 1 2 3
+S1: 1 4
+************************************
+The semigroup #93
+1 1 1 1
+1 2 2 4
+1 2 3 4
+1 4 4 2
+has #1 resonances.
+Resonance #1
+S0: 1 2 3
+S1: 1 4
+************************************
+The semigroup #96
+1 1 1 1
+1 2 3 3
+1 3 2 2
+1 3 2 2
+has #1 resonances.
+Resonance #1
+S0: 1 2
+S1: 1 3 4
+************************************
+The semigroup #103
+1 1 1 4
+1 1 1 4
+1 1 1 4
+4 4 4 1
+has #3 resonances.
+Resonance #1
+S0: 1 2 3
+S1: 4
+Resonance #2
+S0: 1 3 4
+S1: 1 2 4
+Resonance #3
+S0: 1 2 4
+S1: 1 3 4
+************************************
+The semigroup #104
+1 1 1 4
+1 1 1 4
+1 1 2 4
+4 4 4 1
+has #2 resonances.
+Resonance #1
+S0: 1 2 3
+S1: 4
+Resonance #2
+S0: 1 2 4
+S1: 1 3 4
+************************************
+The semigroup #105
+1 1 1 4
+1 1 1 4
+1 1 3 4
+4 4 4 1
+has #2 resonances.
+Resonance #1
+S0: 1 2 3
+S1: 4
+Resonance #2
+S0: 1 3 4
+S1: 1 2 4
+************************************
+The semigroup #107
+1 1 1 4
+1 1 2 4
+1 2 3 4
+4 4 4 1
+has #2 resonances.
+Resonance #1
+S0: 1 2 3
+S1: 4
+Resonance #2
+S0: 1 3 4
+S1: 1 2 4
+************************************
+The semigroup #108
+1 1 1 4
+1 2 1 4
+1 1 3 4
+4 4 4 1
+has #1 resonances.
+Resonance #1
+S0: 1 2 3
+S1: 4
+************************************
+The semigroup #109
+1 1 1 4
+1 2 2 4
+1 2 2 4
+4 4 4 1
+has #1 resonances.
+Resonance #1
+S0: 1 2 3
+S1: 4
+************************************
+The semigroup #110
+1 1 1 4
+1 2 2 4
+1 2 3 4
+4 4 4 1
+has #1 resonances.
+Resonance #1
+S0: 1 2 3
+S1: 4
+************************************
+The semigroup #112
+1 1 1 4
+1 2 3 4
+1 3 2 4
+4 4 4 1
+has #2 resonances.
+Resonance #1
+S0: 1 2 3
+S1: 4
+Resonance #2
+S0: 1 2 4
+S1: 1 3 4
+************************************
+The semigroup #113
+1 1 3 3
+1 1 3 3
+3 3 1 1
+3 3 1 1
+has #3 resonances.
+Resonance #1
+S0: 1 2
+S1: 3 4
+Resonance #2
+S0: 1 3 4
+S1: 1 2 3
+Resonance #3
+S0: 1 2 3
+S1: 1 3 4
+************************************
+The semigroup #114
+1 1 3 3
+1 1 3 3
+3 3 1 1
+3 3 1 2
+has #2 resonances.
+Resonance #1
+S0: 1 2
+S1: 3 4
+Resonance #2
+S0: 1 2 3
+S1: 1 3 4
+************************************
+The semigroup #115
+1 1 3 3
+1 2 3 3
+3 3 1 1
+3 3 1 1
+has #2 resonances.
+Resonance #1
+S0: 1 2
+S1: 3 4
+Resonance #2
+S0: 1 2 3
+S1: 1 3 4
+************************************
+The semigroup #117
+1 1 3 3
+1 2 3 4
+3 3 1 1
+3 4 1 1
+has #2 resonances.
+Resonance #1
+S0: 1 2
+S1: 3 4
+Resonance #2
+S0: 1 2 3
+S1: 1 3 4
+************************************
+The semigroup #118
+1 1 3 3
+1 2 3 4
+3 3 1 1
+3 4 1 2
+has #2 resonances.
+Resonance #1
+S0: 1 2
+S1: 3 4
+Resonance #2
+S0: 1 2 3
+S1: 1 3 4
+************************************
+The semigroup #123
+1 2 2 2
+2 1 1 1
+2 1 1 1
+2 1 1 1
+has #3 resonances.
+Resonance #1
+S0: 1
+S1: 2 3 4
+Resonance #2
+S0: 1 2 4
+S1: 1 2 3
+Resonance #3
+S0: 1 2 3
+S1: 1 2 4
+************************************
+The semigroup #125
+1 2 3 4
+2 1 4 3
+3 4 1 2
+4 3 2 1
+has #3 resonances.
+Resonance #1
+S0: 1 4
+S1: 2 3
+Resonance #2
+S0: 1 3
+S1: 2 4
+Resonance #3
+S0: 1 2
+S1: 3 4
+************************************
+The semigroup #126
+1 2 3 4
+2 1 4 3
+3 4 2 1
+4 3 1 2
+has #1 resonances.
+Resonance #1
+S0: 1 2
+S1: 3 4
+************************************
+There are 48 semigroups with at least one resonance and there are in total 124 different resonances.
