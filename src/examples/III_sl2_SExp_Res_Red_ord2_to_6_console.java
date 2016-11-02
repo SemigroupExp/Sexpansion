@@ -19,7 +19,7 @@ public class III_sl2_SExp_Res_Red_ord2_to_6_console {
 		// TODO Auto-generated method stub
 		Matrix metric ;
 		
-		Semigroup [] listSemigroups = Semigroup.loadFromFile("src/datos/") ;
+		Semigroup [] listSemigroups = Semigroup.loadFromFile("src/data/") ;
 		
 		System.out.println("We introduce the structure constants of sl2");
 		StructureConstantSet sl2 = new StructureConstantSet(3) ;

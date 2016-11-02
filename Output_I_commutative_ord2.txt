@@ -1,0 +1,17 @@
+This is the output of the program I_commutative_ord2_to_6.java, which gives the list of abelian semigroups of order 2.
+The total number of abelian semigroups in this order is is given at the end of the file.
+************************************
+#1
+1 1
+1 1
+************************************
+#2
+1 1
+1 2
+************************************
+#4
+1 2
+2 1
+************************************
+Number of commutative semigroups of order 2: 
+3

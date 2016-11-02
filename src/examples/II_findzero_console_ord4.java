@@ -7,7 +7,7 @@ public class II_findzero_console_ord4 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		Semigroup[] list = Semigroup.loadFromFile("src/datos/");
+		Semigroup[] list = Semigroup.loadFromFile("src/data/");
 		Semigroup s ;
 		int elementoCero ;
 		int i,j;

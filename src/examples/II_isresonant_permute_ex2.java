@@ -9,7 +9,7 @@ public class II_isresonant_permute_ex2 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Semigroup[] lista = Semigroup.loadFromFile("src/datos/");
+		Semigroup[] lista = Semigroup.loadFromFile("src/data/");
 		int i, k;
 		int [] mS0 = {2,3,4};
 		int [] mS1 = {1,4};

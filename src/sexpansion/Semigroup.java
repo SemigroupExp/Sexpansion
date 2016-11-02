@@ -309,27 +309,27 @@ public class Semigroup {
 		int elements = 0 ;
 		switch( order ) {
 		case 2 :
-			fileName = "src/semigroups/datos/sem.2" ;
+			fileName = "src/semigroups/data/sem.2" ;
 			elements = 4;
 			break;
 		case 3 :
-			fileName = "src/semigroups/datos/sem.3" ;
+			fileName = "src/semigroups/data/sem.3" ;
 			elements= 18;
 			break;
 		case 4 :
-			fileName = "src/semigroups/datos/sem.4" ;
+			fileName = "src/semigroups/data/sem.4" ;
 			elements= 126;
 			break;
 		case 5 :
-			fileName = "src/semigroups/datos/sem.5" ;
+			fileName = "src/semigroups/data/sem.5" ;
 			elements= 1160;
 			break;
 		case 6 :
-			fileName = "src/semigroups/datos/sem.6" ;
+			fileName = "src/semigroups/data/sem.6" ;
 			elements= 15973;
 			break;
 		case 7 :
-			fileName = "src/semigroups/datos/sem.7" ;
+			fileName = "src/semigroups/data/sem.7" ;
 			elements= 835927;
 			break;
 		}

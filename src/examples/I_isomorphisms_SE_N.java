@@ -9,7 +9,7 @@ public class I_isomorphisms_SE_N {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Semigroup[] lista = Semigroup.loadFromFile("src/datos/");
+		Semigroup[] lista = Semigroup.loadFromFile("src/data/");
 		int i,k ;
 		
 		int [][] mSE0 = {{1,2},{2,2}};

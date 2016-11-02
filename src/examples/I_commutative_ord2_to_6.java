@@ -9,9 +9,9 @@ import sexpansion.Semigroup;
 public class I_commutative_ord2_to_6 {
 	// To change the order modify the value of the int order (only for values between 2 and 6)
 	private static int order=2;
-	private static String Filename = String.format("./Output_examples/Output_I_commutative_ord"+order +".txt") ;
+	private static String Filename = String.format("./Output_I_commutative_ord"+order +".txt") ;
 	public static void main(String[] args) throws IOException {
-		Semigroup[] list = Semigroup.loadFromFile("./data/");
+		Semigroup[] list = Semigroup.loadFromFile("src/data/");
 		Semigroup s ;
 		int i,j;
 		j = 0;

@@ -14,7 +14,7 @@ public class III_EigenVectors_SExp_sl2_ord3 {
 		// TODO Auto-generated method stub
 				Matrix metric ;
 				
-				Semigroup [] listOfSemigroups = Semigroup.loadFromFile("src/datos/") ;
+				Semigroup [] listOfSemigroups = Semigroup.loadFromFile("src/data/") ;
 				
 				System.out.println("We introduce the structure constants of sl2");
 				StructureConstantSet sl2 = new StructureConstantSet(3) ;

@@ -9,7 +9,7 @@ public class I_isomorphisms_ex2 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Semigroup[] lista = Semigroup.loadFromFile("src/datos/");
+		Semigroup[] lista = Semigroup.loadFromFile("src/data/");
 		int i,k ;
 		Semigroup [] permutations ;
 		SetS [] p = (new SetS(4)).allPermutations();

@@ -15,7 +15,7 @@ public class III_sl2_SExp_Red_ord2_to_6_console {
 	private static int order=2;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Semigroup [] listSemigroups = Semigroup.loadFromFile("src/datos/") ;
+		Semigroup [] listSemigroups = Semigroup.loadFromFile("src/data/") ;
 		
 		Matrix metric ;
 		System.out.println("We introduce the structure constants of sl2");

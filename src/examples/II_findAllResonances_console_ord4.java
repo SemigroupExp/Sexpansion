@@ -9,7 +9,7 @@ public class II_findAllResonances_console_ord4 {
 	 */
 	
 	public static void main(String[] args) {
-		Semigroup [] list = Semigroup.loadFromFile("src/datos/") ;
+		Semigroup [] list = Semigroup.loadFromFile("src/data/") ;
 		SetS [][] Resonances;
 		SetS S0, S1;
 		int i, j, nResonances = 0, nSemigroupWithResonance = 0, TotalResonances = 0;

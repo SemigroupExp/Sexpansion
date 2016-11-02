@@ -12,7 +12,7 @@ public class III_Signature_Sem_ord4 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// TODO Auto-generated method stub
-		Semigroup [] listaSemigrupos = Semigroup.loadFromFile("src/datos/") ;
+		Semigroup [] listaSemigrupos = Semigroup.loadFromFile("src/data/") ;
 		
 		Matrix metrica ;
 		System.out.println("We introduce the structure constants of sl2");

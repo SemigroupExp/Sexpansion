@@ -15,7 +15,7 @@ public class II_findAllResonances_ord2_to_6 {
 	private static String Filename = String.format("./Output_examples/Output_II_findAllResonances_ord"+order +".txt") ;
 
 	public static void main(String[] args) throws IOException {
-		Semigroup [] SemigroupL = Semigroup.loadFromFile("src/datos/") ;
+		Semigroup [] SemigroupL = Semigroup.loadFromFile("src/data/") ;
 		SetS [][] Resonances;
 		SetS S0, S1;
 		int i, j, nResonances = 0, nSemigroupWithResonance = 0, TotalResonances = 0;

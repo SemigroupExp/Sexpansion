@@ -9,7 +9,7 @@ public class I_isomorphisms_ex3 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Semigroup[] lista = Semigroup.loadFromFile("src/datos/");
+		Semigroup[] lista = Semigroup.loadFromFile("src/data/");
 		int i,k ;
 		
 		int [][] mSM3 = {{1,2,3,4},{2,3,4,1},{3,4,1,2},{4,1,2,3}};
