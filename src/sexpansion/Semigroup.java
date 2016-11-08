@@ -12,16 +12,24 @@ import java.util.StringTokenizer;
  */
 
 public class Semigroup {
-
+	
+/* ------------------
+ * Class Variables
+ * ------------------*/
 	int[][] data;
 	public int order;  //The order of the semigroup
 	public int ID; // This is the number of semigroup for a given order.
 	
+/* -----------------
+ * Constructors
+ * ----------------- */
+	
 	/**
-	 * 
-	 * @param data is a matrix of integer which represents the multiplication table of the semigroup. The convention here is that,
-	 * for a semigroup of order n, the elements are labelled 1,2,3,...,n.
+	 * Constructs a Semigroup from a two dimensional matrix of integer numbers.
+	 *  The convention here is that, for a semigroup of order n, the elements are labelled 1,2,3,...,n.
+	 * @param data is a matrix of integer which represents the multiplication table of the semigroup. 
 	 */
+	
 	public Semigroup(int [][]data) {
 		order = data.length ;
 		this.data = new int[order][order];
@@ -33,14 +41,26 @@ public class Semigroup {
 			}
 		}
 	}
-	
+	/**
+	 * Constructs a Semigroup of the given order filled with the order as the only element
+	 * @param order order of the semigroup
+	 */
 	public Semigroup ( int order) {
 		this.order = order;
 		this.data = new int[order][order];
 	}
+	/**
+	 * Construct a semigroup from file (Not implemented Yet)
+	 * @param filename
+	 */
 	public Semigroup( String filename) {
 		System.out.println("Not implemented yet!");
 	}
+	
+	
+/* -----------------
+ * Public Methods 
+ * ----------------- */
 	/**
 	 * Returns the multiplication table as String
 	 * @return
@@ -60,17 +80,20 @@ public class Semigroup {
 	    aString = aString.replaceAll("(?m)^ ", "");
 	    return aString;
 	}
+	
 	/**
 	 * 
 	 * @return Returns the order of the semigroup
 	 */
+	
 	public int elements(){
 		return order ;
 	}
 	
 	/**
-	 * Shows the multiplication table of the semigroup in a convenient manner.
+	 * Shows the multiplication table of the semigroup as a two dimensional matrix.
 	 */
+	
 	public void show() {
 		int i = 0 ;
 		int j = 0 ;
@@ -84,7 +107,7 @@ public class Semigroup {
 	}
 	/**
 	 * 
-	 * @return Returns true if the multiplication table is associative i.e. if the object is really a semigroup
+	 * @return Returns true if the multiplication table is associative.
 	 */
 	public boolean isAssociative() {
 		int i , j , k ;
@@ -222,7 +245,6 @@ public class Semigroup {
 		}
 		result = new Semigroup[elements];
 
-		//System.out.println('Anem a tractar de carregar un arxiu');
 		File arxiu = new File( fileName );
 		try {
 			NSemigroups = elements ;
@@ -230,16 +252,13 @@ public class Semigroup {
 			theReader = new BufferedReader(reader);
 			for ( N = 0 ; N < NSemigroups ; ++N ){
 				matrix = new int[order][order];
-				// La primera l’nia que llig Žs el nœmero de semigrup i l'ordre
 				str = theReader.readLine();
 				st = new StringTokenizer(str);
 				strNumber = st.nextToken();
 				number = Integer.parseInt(strNumber);
 				id = number ;
-				//System.out.println(numero);
 				strNumber = st.nextToken();
 				number = Integer.parseInt(strNumber);
-				//System.out.println(numero);
 				int i  , j  ;
 				for ( i = 0 ; i < order ; ++ i ){ 
 					for ( j = 0 ; j < order ; ++j ) {
@@ -247,14 +266,12 @@ public class Semigroup {
 						st = new StringTokenizer(str);
 						strNumber = st.nextToken();
 						number = Integer.parseInt(strNumber);
-						//System.out.println(numero) ;
 						matrix[i][j] = number;
 					}
 				}
 				result[N] = new Semigroup(matrix) ;
 				result[N].ID = id ;
 			}
-//			System.out.println("Fi de l'arxiu");
 			reader.close();
 			} catch( IOException excepcio  ) {
 				System.out.println("Error");
