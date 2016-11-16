@@ -134,7 +134,7 @@ public class SetS {
     	return null;
     }
     
-    public SetS[] auxSubset( SetS original , SetS resultat, int n) {
+    public SetS[] auxSubset( SetS original , SetS result, int n) {
     	int i;
     	SetS [] list = null;
     	SetS [] totalList = null;
@@ -147,7 +147,7 @@ public class SetS {
     	//System.out.println(" elements");
     	if ( n == 0 ) {
     		totalList = new SetS[1];
-    		totalList[0] = resultat;
+    		totalList[0] = result;
     		return totalList ;
     	}
     	SetS aux1;
@@ -156,7 +156,7 @@ public class SetS {
     		//System.out.println("Volta ");
     		//System.out.println(i);
     		aux1= original.eraseElement(i);
-    		aux2= resultat.addElement( original.elementAt(i));
+    		aux2= result.addElement( original.elementAt(i));
         	//System.out.println("aux1 ");
         	//System.out.print( aux1.nElements);
         	//System.out.println(" elements");
@@ -329,7 +329,7 @@ public class SetS {
 		 return this.permutationsAux( this , result);
 	}
 	
-	public SetS [] permutationsAux( SetS original, SetS resultat ) {
+	public SetS [] permutationsAux( SetS original, SetS result ) {
 		int i , j;
 		SetS original2 , result2 ;
 		SetS [] list = null;
@@ -338,11 +338,11 @@ public class SetS {
 		int N = 0 ;
 		if ( original.nElements == 0 ) {
 			list = new SetS[1];
-			list[0] = resultat ;
+			list[0] = result ;
 			return list ;
 		}
 		for ( i = 0 ; i < original.nElements ; i++ ){
-			result2 = resultat.addElement( original.elementAt(i) ) ;
+			result2 = result.addElement( original.elementAt(i) ) ;
 			original2 = original.eraseElement(i) ;
 			list = permutationsAux( original2 , result2) ;
 			N = N + list.length ;
