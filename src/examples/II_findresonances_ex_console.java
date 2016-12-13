@@ -1,5 +1,4 @@
 package examples;
-
 import sexpansion.Semigroup;
 import sexpansion.SetS;
 
@@ -9,19 +8,6 @@ public class II_findresonances_ex_console {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-	// Define a list of 2-dimensional arrays for each semigroup 
-	SetS[][] rS_E2;
-	SetS[][] rS_K3;
-	SetS[][] rS_N1;
-	SetS[][] rS_N2;
-	SetS[][] rS_N3;
-	SetS[][] rS_S3;
-	SetS[][] rS_S2;
-	SetS[][] rS_M3;
-	SetS[][] rS_M4;
-	SetS S0;
-	SetS S1;
-	int j, nResonances = 0;
 	// Manually enter the semigroups table
 	int[][] mS_E2 = {{1,2,3,4},{2,3,4,4},{3,4,4,4},{4,4,4,4}};
 	int[][] mS_K3 = {{4,4,1,4},{4,2,2,4},{1,2,3,4},{4,4,4,4}};
@@ -43,6 +29,22 @@ public class II_findresonances_ex_console {
 	Semigroup S_S2 = new Semigroup( mS_S2 );
 	Semigroup S_M3 = new Semigroup( mS_M3 );
 	Semigroup S_M4 = new Semigroup( mS_M4 );
+	
+	SetS S0;
+	SetS S1;
+	int j, nResonances = 0;
+	
+	// Define a list of 2-dimensional arrays for each semigroup 
+	SetS[][] rS_E2;
+	SetS[][] rS_K3;
+	SetS[][] rS_N1;
+	SetS[][] rS_N2;
+	SetS[][] rS_N3;
+	SetS[][] rS_S3;
+	SetS[][] rS_S2;
+	SetS[][] rS_M3;
+	SetS[][] rS_M4;
+	
 	rS_E2 = S_E2.findAllResonances();
 	rS_K3 = S_K3.findAllResonances();
 	rS_N1 = S_N1.findAllResonances();
