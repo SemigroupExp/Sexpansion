@@ -107,7 +107,10 @@ public class StructureConstantSet {
 		}
 		return new Matrix( metric );
 	}
-	
+	/**
+	 * Calculates the adjoint generators
+	 * @return Matrix[] containing the adjoint generators
+	 */
 	public Matrix [] adjointGenerators () {
 		Matrix [] generators = new Matrix[this.N];
 		int i,j,k ;
@@ -126,7 +129,10 @@ public class StructureConstantSet {
 		
 		return generators;
 	}
-	
+	/**
+	 * TODO
+	 * @return
+	 */
 	public Matrix [] semisimpleAdjointGenerators () {
 		Matrix [] generators = this.adjointGenerators() ;
 		Matrix [] result = null;
@@ -202,9 +208,10 @@ public class StructureConstantSet {
 		return result;
 	}
 	
-	
-	
-	
+	/**
+	 * TODO
+	 * @return
+	 */
 	public Matrix casimir() {
 		Matrix CK = this.cartanKillingMetric() ;
 		Matrix inverseCK = CK.inverse() ;
@@ -226,7 +233,10 @@ public class StructureConstantSet {
 		}
 		return M;
 	}
-	
+	/**
+	 * TODO
+	 * @return
+	 */
 	public double [] casimirEigenvalues () {
 		return (this.casimir().eig()).getRealEigenvalues();
 	}
@@ -239,7 +249,11 @@ public class StructureConstantSet {
 		
 	//	return null;
 	//}
-	
+	/**
+	 * TODO
+	 * @param generators
+	 * @return
+	 */
 	public boolean generatorsSelfCommute (SetS generators ) {
 		int i , j ;
 		int nGeneradors = generators.nElements ;
