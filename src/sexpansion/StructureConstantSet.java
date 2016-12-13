@@ -8,12 +8,16 @@ import Jama.* ;
  *
  */
 public class StructureConstantSet {
-
+	/* ------------------
+	 * Class Variables
+	 * ------------------*/
 	//Array to save the structure constants of the orignal Lie algebra
 	double [][][] constants ;
 	//Number of generators of the Lie algebra.
 	int N ;
-	
+	/* -----------------
+	 * Constructors
+	 * ----------------- */
 	/** 
 	 * Creates a StructureConstantSet for a Lie algebra of dimension n
 	 * @param n the dimension of the Lie algebra
@@ -23,7 +27,15 @@ public class StructureConstantSet {
 		N = n ;
 		constants = new double[N][N][N];
 	}
-	
+	/* -----------------
+	 * Public Methods 
+	 * ----------------- */
+	/**
+	 * 
+	 * @param i
+	 * @param j
+	 * @return Returns true if the generators are commutative
+	 */
 	public boolean generatorsCommute( int i , int j ) {
 		int k = 0 ;
 		for ( k = 0 ; k < this.N ; ++k) {
@@ -151,7 +163,7 @@ public class StructureConstantSet {
 	}
 	
 	/**
-	 * Returns a list with the number of semisimple generators. I.e, generators { 1 , 4 and 6 }
+	 * Returns a list with the number of semi simple generators. I.e, generators { 1 , 4 and 6 }
 	 * @return
 	 */
 	

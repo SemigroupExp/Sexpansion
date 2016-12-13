@@ -10,12 +10,16 @@ import Jama.Matrix;
  */
 
 public class Selector {
-	
+	/* ------------------
+	 * Class Variables
+	 * ------------------*/
 	//Number of elements of the semigroup
 	int order ;
 	//Array to save the selectors
 	int [][][] data ;
-	
+	/* -----------------
+	 * Constructors
+	 * ----------------- */
 	/**
 	 * Creates a selector object for a semigroup of order n.
 	 * 
@@ -32,6 +36,9 @@ public class Selector {
 	 * @param c
 	 * @param valor
 	 */
+	/* -----------------
+	 * Public Methods 
+	 * ----------------- */
 	public void set( int a , int b , int c , int valor ) {
 		data[a ][b][c] = valor ;
 	}

@@ -12,9 +12,16 @@ import java.io.IOException;
  */
 
 public class SetS {
-
+	/* ------------------
+	 * Class Variables
+	 * ------------------*/
+	
 	int [] list ;
 	public int nElements ;
+	
+	/* -----------------
+	 * Constructors
+	 * ----------------- */
 	
 	/**
 	 * Builds a SetS object out of a array of integers
@@ -41,6 +48,11 @@ public class SetS {
 			list[i] = i +1 ;
 		}
 	}
+	
+	/* -----------------
+	 * Public Methods 
+	 * ----------------- */
+	
 	/**
 	 * Prints a SetS to string in a fancy way
 	 */

@@ -2,11 +2,21 @@ package sexpansion;
 
 import Jama.Matrix;
 
+/**
+ * A java class to represent the selector of a Resonant s-expanded algebra.
+ * Its a child class of Selector
+ * @author fnadal
+ *
+ */
 
 public class SelectorResonantReduced extends SelectorResonant {
-
+	/* ------------------
+	 * Class Variables
+	 * ------------------*/
 	int zero;
-	
+	/* -----------------
+	 * Constructors
+	 * ----------------- */
 	public SelectorResonantReduced(Selector s, SetS V0, SetS V1 , int zero) {
 		// TODO Auto-generated constructor stub
 		super(s,V0,V1);
@@ -23,6 +33,9 @@ public class SelectorResonantReduced extends SelectorResonant {
 		}
 	}
 	
+	/* -----------------
+	 * Public Methods 
+	 * ----------------- */
 	
 	public Matrix selectorMetric (){
 		Matrix bigMatrix = super.selectorMetric();

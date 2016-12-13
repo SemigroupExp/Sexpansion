@@ -138,7 +138,9 @@ public class StructureConstantSetExpanded {
 			System.out.println("*****");
 		}
 	}
-	
+	/**
+	 * Prints the Structure constants in a pretty notation
+	 */
 	
 	public void showPretty () {
 		int i,j ;

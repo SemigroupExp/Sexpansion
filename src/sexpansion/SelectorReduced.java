@@ -1,11 +1,21 @@
 package sexpansion;
 
 import Jama.Matrix;
-
+/**
+ * A java class to represent the selector of a reduced s-expanded algebra.
+ * Its a child class of Selector
+ * @author fnadal
+ *
+ */
 
 public class SelectorReduced extends Selector {
-
+	/* ------------------
+	 * Class Variables
+	 * ------------------*/
 	int zero;
+	/* -----------------
+	 * Constructors
+	 * ----------------- */
 	public SelectorReduced( Selector s, int zero) {
 		super(s.order);
 		this.data = s.data ;
@@ -21,7 +31,9 @@ public class SelectorReduced extends Selector {
 			}
 		}
 	}
-	
+	/* -----------------
+	 * Public Methods 
+	 * ----------------- */
 	public Matrix selectorMetric() {
 		Matrix bigMatrix = super.selectorMetric();
 		int i,j;
@@ -40,11 +52,5 @@ public class SelectorReduced extends Selector {
 				}
 			}
 		return new Matrix(dat);
-	}
-	
-	
-	/**
-	 * @param args
-	 */
-	
+	}	
 }
