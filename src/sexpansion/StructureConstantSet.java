@@ -67,7 +67,7 @@ public class StructureConstantSet {
 	}
 	
 	/**
-	 * Shows the structure constants. It shows n boxes, so f_{ij}^k is showed in box i, row j, column k.
+	 * Shows the structure constants. It shows n boxes, so f_{ij}^k is shown in box i, row j, column k.
 	 */
 	public void show() {
 		int i ,  j  , k ;
@@ -130,8 +130,8 @@ public class StructureConstantSet {
 		return generators;
 	}
 	/**
-	 * TODO
-	 * @return
+	 * Calculates the semi simple adjoint Generators
+	 * @return Matrix[] containing the Semi Simple Adjoing Generators
 	 */
 	public Matrix [] semisimpleAdjointGenerators () {
 		Matrix [] generators = this.adjointGenerators() ;
