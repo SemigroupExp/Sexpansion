@@ -26,7 +26,6 @@ public class II_findAllResonances_console_ord4 {
 					TotalResonances = TotalResonances + Resonances.length;
 					System.out.println("The semigroup #"+list[i].ID+" has "+Resonances.length+" resonances");
 					list[i].show();
-					//System.out.println("has #" +Resonances.length+ " resonances:");
 					for (j = 0; j < Resonances.length ; j++) {
 						nResonances = nResonances + 1;
 						S0 = Resonances[j][0];
