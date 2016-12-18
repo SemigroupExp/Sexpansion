@@ -618,7 +618,7 @@ public class Semigroup {
 	 * Performs the multiplication of two elements of the semigroup using its multiplication table, returns -1 if you enter an element that does not belong to the semigroup.
 	 * @param i
 	 * @param j
-	 * @return returns i * j acording to the semigroup's multiplication table
+	 * @return returns i * j according to the semigroup's multiplication table
 	 */
 	public int mutltiply(int i, int j) {
 		if (i > this.order || j > this.order) {
