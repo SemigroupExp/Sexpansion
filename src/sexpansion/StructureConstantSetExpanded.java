@@ -11,10 +11,18 @@ import Jama.Matrix;
  */
 
 public class StructureConstantSetExpanded {
+	
+	/* ------------------
+	 * Class Variables
+	 * ------------------*/
 
 	// n is the number of generators of the algebra, m is the order of the semigroup
 	public int n,m ;
 	public double [][][][][][] data ;
+	
+	/* -----------------
+	 * Constructors
+	 * ----------------- */
 	
 	/**
 	 * Creates an empty object, able to accommodate an expansion of a n-dimensional Lie algebra by a semigroup or order m
@@ -48,6 +56,11 @@ public class StructureConstantSetExpanded {
 	 * @param e
 	 * @param f
 	 */
+	
+	/* -----------------
+	 * Public Methods 
+	 * ----------------- */
+	
 	public double get( int a , int b , int c , int d , int e , int f ) {
 		return data[a  ][b  ][c  ][d  ][e  ][f  ];
 	}
@@ -306,7 +319,7 @@ public void showSC(){
 	}
 	
 	/*
-	 * Returns the eigenValues of the Cartan-Killing matrix
+	 * Returns the eigenValues of the Cartan-Killing matrix.
 	 */
 	public double[] eigenValues() {
 		Jama.Matrix metric = this.cartanKillingMetric();

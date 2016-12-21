@@ -9,7 +9,17 @@ import Jama.Matrix;
  */
 public class StructureConstantSetExpandedReduced extends
 		StructureConstantSetExpanded {
+	
+	/* ------------------
+	 * Class Variables
+	 * ------------------*/
+	
 		int zero ;
+		
+		/* -----------------
+		 * Constructors
+		 * ----------------- */
+		
 		/**
 		 * Creates an object able to get the result of this type of expansion followed by a reduction.
 		 * @param n the dimension of the original Lie algebra
@@ -22,7 +32,7 @@ public class StructureConstantSetExpandedReduced extends
 		}
 		
 		/**
-		 * To be filled
+		 * Creates a StructureConstantSetExpandedReduced where all elements equal to the zero element of the semigroup are 0. 
 		 * @param data
 		 * @param zero
 		 */
@@ -46,6 +56,10 @@ public class StructureConstantSetExpandedReduced extends
 				}
 			}
 		}
+		
+		/* -----------------
+		 * Public Methods 
+		 * ----------------- */
 		
 		/**
 		 * Calculates the Cartan-Killing metric of the Reduced algebra
