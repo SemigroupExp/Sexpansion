@@ -342,7 +342,8 @@ public class Semigroup {
     	return true;
     }
 	
-	public boolean isResonatF(SetS S0, SetS S1,int zero) {
+	public boolean isResonatF(SetS S0, SetS S1) {
+		int zero = this.findZero();
 		if(!hasNonZeroRepeatingElement(S0,S1,zero) && this.isResonant(S0,S1)) {
 			return true;
 		}
@@ -350,6 +351,35 @@ public class Semigroup {
 			return false;
 		}
 	}
+	
+	public SetS [][] findResonancesF( int n1, int n2 ) {
+		SetS total = new SetS(this.order) ;
+		SetS [] list1 = total.subSets(n1) ;
+		SetS [] list2 = total.subSets(n2) ;
+		SetS [][] result = null;
+		SetS [][] auxiliar = null ;
+		int foundResonances = 0 ;
+		int i , j , k = 0;
+		for ( i = 0 ; i < list1.length ; ++ i ) {
+			for ( j = 0 ; j < list2.length ; ++j ) {
+				if ( this.isResonatF( list1[i], list2[j]) && SetS.fillTheSpace( list1[i], list2[j], this.order))
+				{
+					//System.out.println("FindResonances(a,b): resonancia encontrada");
+					foundResonances = foundResonances + 1 ;
+					auxiliar = result ;
+					result = new SetS[foundResonances ] [2] ;
+					for ( k = 0 ; k < foundResonances -1 ; ++k) {
+						result[k][0] = auxiliar[k][0];
+						result[k][1] = auxiliar[k][1];
+					}
+					result[ foundResonances - 1 ] [0] = list1[i];
+					result[ foundResonances - 1] [1] = list2[j];
+				}
+			}
+		}
+		return result;
+	}
+	
 	
 	/**
 	 * Looks for all the resonant decomposition of a possible semigroup with n1 elements in S0 and n2 in S1
@@ -419,6 +449,7 @@ public class Semigroup {
 		}
 		return result;
 	}
+	
 	public static boolean hasNonZeroRepeatingElement(SetS S0, SetS S1,int zero) {
 		if(zero != -1) {
 			for(int i=0;i<S0.nElements;i++) {
