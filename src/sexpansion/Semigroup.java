@@ -410,6 +410,61 @@ public class Semigroup {
 		}
 		return result;
 	}
+	public static boolean hasNonZeroRepeatingElement(SetS S0, SetS S1,int zero) {
+		if(zero != -1) {
+			for(int i=0;i<S0.nElements;i++) {
+				for(int j=0;j<S1.nElements;j++){
+					if(S0.elementAt(i)==S1.elementAt(j) && S0.elementAt(i)!=zero) {
+						return true;
+					}
+				}
+			}
+			return false;
+		}
+		else {
+			for(int i=0;i<S0.nElements;i++) {
+				for(int j=0;j<S1.nElements;j++){
+					if(S0.elementAt(i)==S1.elementAt(j)) {
+						return true;
+					}
+				}
+			}
+			return false;
+		}
+	}
+	/**
+	 * Filters all the resonances of the given semigroup so that the only repeating element in
+	 * and s1 is the zero element if it exists and returns it as a SetS array where result[i][0] is S0
+	 * and result[i][1] is S1
+	 * @return SetS[][]
+	 */
+	public SetS[][] filterResonances() {
+		SetS resonances[][];
+		SetS result[][] = null;
+		SetS auxiliar[][];
+		int zero = this.findZero();
+		int j=0;
+		resonances = this.findAllResonances();
+		if(resonances != null) {
+				for(int i = 0;i<resonances.length;i++) {
+					if(!hasNonZeroRepeatingElement(resonances[i][0],resonances[i][1],zero)){
+						auxiliar = result;
+						result = new SetS[j+1][2];
+						for (int k=0;k<j;k++) {
+							result[k][0]=auxiliar[k][0];
+							result[k][1]=auxiliar[k][1];
+						}
+						result[j][0] = resonances[i][0];
+						result[j][1] = resonances[i][1];
+						j++;
+					}
+				}
+				return result;
+			}
+		else {
+			return null;
+		}		
+	}
 
 	/**
 	 * Applies an isomorphism to the semigroup
@@ -620,7 +675,7 @@ public class Semigroup {
 	 * @param j
 	 * @return returns i * j according to the semigroup's multiplication table
 	 */
-	public int mutltiply(int i, int j) {
+	public int multiply(int i, int j) {
 		if (i > this.order || j > this.order) {
 			System.out.println("You entered an element that does not belong to the semigroup");
 			return -1;
