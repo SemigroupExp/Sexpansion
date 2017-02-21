@@ -450,6 +450,34 @@ public class Semigroup {
 		return result;
 	}
 	
+	public SetS [][] findAllResonancesF() {
+		int i , j , k;
+		SetS [][] result = null;
+		SetS [][] auxiliar ;
+		SetS [][] intermediateResult;
+		int N = 0;
+		for ( i = 1 ; i < this.order ; ++i) {
+			for ( j = 1 ; j < this.order ; ++j) {
+				intermediateResult = this.findResonancesF( i, j) ;
+				if ( intermediateResult != null ) {
+				//	System.out.println("FindAllResonances: he encontrado una resonancia");
+					auxiliar = result ;
+					N = N + intermediateResult.length ;
+					result = new SetS[ N][2];
+					for ( k = 0 ; k < N - intermediateResult.length ; ++k ) {
+						result[k][0] = auxiliar[k][0];
+						result[k][1] = auxiliar[k][1];
+					}
+					for ( k = 0 ; k < intermediateResult.length ; ++k) {
+						result[ N - intermediateResult.length + k][0 ] = intermediateResult[k][0];
+						result[ N - intermediateResult.length + k][ 1 ] = intermediateResult[k][1];
+					}
+				}
+			}
+		}
+		return result;
+	}
+	
 	public static boolean hasNonZeroRepeatingElement(SetS S0, SetS S1,int zero) {
 		if(zero != -1) {
 			for(int i=0;i<S0.nElements;i++) {
@@ -472,13 +500,14 @@ public class Semigroup {
 			return false;
 		}
 	}
+	
 	/**
 	 * Filters all the resonances of the given semigroup so that the only repeating element in
 	 * and s1 is the zero element if it exists and returns it as a SetS array where result[i][0] is S0
 	 * and result[i][1] is S1
 	 * @return SetS[][]
 	 */
-	public SetS[][] filterResonances() {
+	public SetS[][] findAllResonancesF2() {
 		SetS resonances[][];
 		SetS result[][] = null;
 		SetS auxiliar[][];

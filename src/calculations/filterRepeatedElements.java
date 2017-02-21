@@ -10,7 +10,7 @@ public class filterRepeatedElements {
 			int zero=-1;
 			for(int i = 0;i<SemigroupL.length;i++){
 				if(SemigroupL[i].order==4 && SemigroupL[i].isAssociative()) {
-					resonancias = SemigroupL[i].filterResonances();
+					resonancias = SemigroupL[i].findAllResonancesF();
 					zero = SemigroupL[i].findZero();
 					if(resonancias != null) {
 						for (int k=0;k<resonancias.length;k++) {
