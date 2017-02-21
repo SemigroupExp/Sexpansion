@@ -6,7 +6,7 @@ import java.util.StringTokenizer;
 /**
  * A class to represent a discrete semigroup.
  * 
- * @author Felip Nadal
+ * @author Felip Nadal, Carlos Inostroza
  * 
  *
  */
@@ -341,6 +341,15 @@ public class Semigroup {
     	
     	return true;
     }
+	
+	public boolean isResonatF(SetS S0, SetS S1,int zero) {
+		if(!hasNonZeroRepeatingElement(S0,S1,zero) && this.isResonant(S0,S1)) {
+			return true;
+		}
+		else {
+			return false;
+		}
+	}
 	
 	/**
 	 * Looks for all the resonant decomposition of a possible semigroup with n1 elements in S0 and n2 in S1
