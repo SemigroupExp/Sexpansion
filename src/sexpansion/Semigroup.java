@@ -16,7 +16,7 @@ public class Semigroup {
 /* ------------------
  * Class Variables
  * ------------------*/
-	int[][] data;
+	public int[][] data;
 	public int order;  //The order of the semigroup
 	public int ID; // This is the number of semigroup for a given order.
 	
@@ -42,7 +42,7 @@ public class Semigroup {
 		}
 	}
 	/**
-	 * Constructs a Semigroup of the given order filled with the order as the only element
+	 * Constructs an empty Semigroup of the given order.
 	 * @param order order of the semigroup
 	 */
 	public Semigroup ( int order) {
