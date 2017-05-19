@@ -18,7 +18,7 @@ public class III_c_Solutions_with_Subsem_SE3 {
 		Set<Integer> SolutionsID = new HashSet<Integer>(Arrays.asList(IDList));
 		for (idSemigrupo = 0; idSemigrupo < lista.length; ++idSemigrupo) {
 			// La variable IdSemigrupo corre sobre todos los semigrupos de orden
-			// 6
+			// aaaa6
 			if (SolutionsID.contains(lista[idSemigrupo].ID)) {
 				// Solo trabajamos sobre los semigrupos cuyo ID se incluyó en la
 				// lista. 7916, 9915, 14651
@@ -149,6 +149,10 @@ public class III_c_Solutions_with_Subsem_SE3 {
 											"A subsemigroup which is isomorphic to the given one has been found");
 									System.out.println("The semigroup which contains it as a subsemigroup is S#"
 											+ lista[idSemigrupo].ID);
+									lista[idSemigrupo].show();
+									System.out.println("------------------");
+									grupoDado.show();
+									System.out.println("*****************");
 									System.out.println("The elements that has been used are:");
 									subconjuntos[nSemigrupo].show();
 									System.out.println("Orignal subsemigroup:");
@@ -171,6 +175,6 @@ public class III_c_Solutions_with_Subsem_SE3 {
 		System.out.println("The list with their ID is given by: ");
 		System.out.println(nSem_with_subs.toString());
 		System.out.println("");
-		System.out.println("Total number of times that the given semigroup is subsemigroup: " + nTotal_Sem_with_subs);
+		System.out.println("Total number of times that the given semigroup is subsemigroup:" + nTotal_Sem_with_subs);
 	}
 }
