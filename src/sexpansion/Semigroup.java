@@ -49,6 +49,7 @@ public class Semigroup {
 		this.order = order;
 		this.data = new int[order][order];
 	}
+	
 	/**
 	 * Construct a semigroup from file (Not implemented Yet)
 	 * @param filename
